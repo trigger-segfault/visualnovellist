@@ -1,0 +1,71 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "spellright.notificationClass": "hint",
+    "spellright.documentTypes": [
+      "markdown",
+      "latex",
+      "plaintext",
+      "html",
+      "yaml",
+      "json",
+      "jsonc"
+    ],
+    "spellright.ignoreFiles": [
+      "**/.gitignore",
+      "**/.spellignore",
+      "trigger-segfault.code-workspace",
+      "Gemfile*",
+      "tsconfig.json",
+      ".markdownlint.json"
+    ],
+    "css.lint.vendorPrefix": "ignore",
+    "editor.detectIndentation": false,
+    "files.exclude": {
+      "_site/**": true,
+      "node_modules/**": true,
+      "**/.vscode/**": true,
+      ".jekyll-metadata": true
+    },
+	  "[markdown]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[json]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[jsonc]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[xml]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[html]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[css]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[scss]": {
+	    "editor.insertSpaces": true,
+	    "editor.tabSize": 2
+	  },
+	  "[javascript]": {
+	    "editor.insertSpaces": false,
+	    "editor.tabSize": 4
+	  },
+	  "[typescript]": {
+	    "editor.insertSpaces": false,
+	    "editor.tabSize": 4
+	  },
+  }
+}

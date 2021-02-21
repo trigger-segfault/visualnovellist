@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "newLine": "LF",
+    "target": "es5",
+    "sourceMap": false,
+    "declaration": false,
+    "jsx": "preserve",
+    "lib": [
+      "es2017",
+      "dom",
+      "es5"
+    ],
+    "baseUrl": ".",
+    "strict": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowJs": false,
+  },
+  "exclude": [
+    ".git",
+    "node_modules",
+    "_site"
+  ],
+  "compileOnSave": true
+}

@@ -1,0 +1,216 @@
+﻿
+/**
+ * General Styles
+ */
+/*body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: Verdana, Arial;
+  font-size: 11px;
+}*/
+#footer-block {
+  padding: 15px 0;
+  font-family: Avenir, "lucida grande", tahoma, verdana, arial, sans-serif;
+}
+#copyright {
+  font-size: 12px;
+  padding-top: 3px;
+  text-align: center;
+}
+
+/**
+ * List Container
+ */
+.list-container {
+  position: relative;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+}
+
+/**
+ * List Container - Status Menu
+ */
+.status-menu-container .status-menu {
+  display: table;
+  margin: 0 auto;
+  border-collapse: separate;
+  border-spacing: 40px 0;
+}
+
+.status-menu-container .status-menu .status-button {
+  position: relative;
+  display: table-cell;
+  padding: 12px 0;
+  margin: 0;
+  /*font-family: 'Helvetica neue', Helvetica, "lucida grande", tahoma, verdana, arial, sans-serif;*/
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+}
+/*.status-menu-container .status-menu .status-button.on {
+  font-weight: bold;
+}*/
+.status-menu-container .status-menu .status-button:after {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  width: 100%;
+  height: 4px;
+  content: '';
+  opacity: 0;
+}
+.status-menu-container .status-menu .status-button.on:after, .status-menu .status-button:hover:after {
+  opacity: 1;
+}
+
+/**
+ * List Container - Status Menu - Search
+ */
+.status-menu-container .search-container {
+  position: absolute;
+  right: 18px;
+}
+.status-menu-container .search-container #search-button {
+  display: inline-block;
+  height: 22px;
+  margin-top: 15px;
+  color: #787878;
+  font-size: 1.6em;
+  vertical-align: middle;
+}
+.status-menu-container .search-container #search-box {
+  display: inline-block;
+  width: 0;
+  height: 22px;
+  overflow: hidden;
+  margin-top: 13px;
+  -webkit-transition: width 0.3s;
+  -moz-transition: width 0.3s;
+  transition: width 0.3s;
+  -webkit-backface-visibility: hidden;
+  vertical-align: middle;
+}
+.status-menu-container .search-container #search-box.open {
+  display: inline-block;
+  width: 100px;
+}
+.status-menu-container .search-container #search-box input {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/**
+ * List Container - List Block
+ */
+.list-block {
+  margin-top: 16px;
+  min-height: 600px;
+  padding: 0;
+}
+
+/**
+ * List Container - List Status Title (with Stats)
+ */
+.list-unit .list-stats {
+  line-height: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+/**
+ * List Container - List Table
+ */
+
+.list-table {
+  width: 100%;
+  /*margin: 0 auto;*/
+  border-collapse: collapse;
+}
+
+/**
+ * List Container - List Table - Header
+ */
+.list-table .list-table-header .header-title {
+  display: table-cell;
+  height: 36px;
+  text-align: center;
+  vertical-align: middle;
+}
+.list-table .list-table-header .header-title.status {
+  width: 4px;
+}
+.list-table .list-table-header .header-title.number {
+  width: 30px;
+}
+.list-table .list-table-header .header-title.image {
+  width: 66px;
+}
+.list-table .list-table-header .header-title.tags {
+  width: 120px;
+}
+
+/**
+ * List Container - List Table - Items
+ */
+.list-table .list-table-data .data {
+  display: table-cell;
+  padding: 4px 0;
+  text-align: center;
+}
+.list-table .list-table-data .data.title {
+  padding-left: 8px;
+  text-align: left;
+  word-wrap: break-word;
+}
+/* TODO: Update when rewatching is added */
+.list-table .list-table-data .data.title .rewatching, .list-table .list-table-data .data.title .rereading, .list-table .list-table-data .data.title .content-status {
+  color: #BABABA;
+  font-size: 0.9em;
+}
+
+.list-table .list-table-data .data.status {
+  width: 4px;
+}
+.list-table .list-table-data .data.title .more {
+  position: relative;
+}
+.list-table .more-info {
+  display: none;
+}
+.list-table .more-info .more-content {
+  padding: 10px;
+}
+.list-table .list-table-data .data.tags {
+  word-wrap: break-word;
+}
+
+.list-table .list-table-data .data.status.playing {
+  background-color: #2db039;
+}
+.list-table .list-table-data .data.status.queued {
+  background-color: #9A3EC4;
+}
+.list-table .list-table-data .data.status.planning {
+  background-color: #c3c3c3;
+}
+.list-table .list-table-data .data.status.completed {
+  background-color: #26448f;
+}
+.list-table .list-table-data .data.status.onhold {
+  background-color: #f1c83e;
+}
+.list-table .list-table-data .data.status.dropped {
+  background-color: #a12f31;
+}
+
+.list-unit .loading-space {
+  margin: 8px;
+  height: 20px;
+  font-size: 20px;
+  text-align: center;
+}

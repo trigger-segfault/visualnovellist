@@ -1,0 +1,12 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="{{ include.viewport | default: 'width=device-width, initial-scale=1' }}">
+{%- include seo.html -%}
+{%- if page.redirect_seo -%}
+  <link rel="canonical" href="{{ page.redirect_seo | absolute_url | escape }}">
+  <meta http-equiv="refresh" content="1; url={{ page.redirect_seo | absolute_url | escape }}">
+{%- else -%}
+  <link rel="stylesheet" type="text/css" href="/assets/css/reset.css"/>
+  <!-- <link rel="stylesheet" type="text/css" href="{{ '/assets/css/reset.css' | relative_url }}"/> -->
+{%- endif -%}
+{%- feed_meta -%}

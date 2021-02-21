@@ -1,0 +1,1745 @@
+﻿{
+  "entry_documentation": {
+    // Basic Info
+    "title": "VNDb title",
+    "url": "VNDb url, otherwise another url to the game",
+    "image": "Image cover url",
+
+    // Opinion
+    "score": "null, 1.0-10.0",
+    "eroge": true, // H-Scenes are often too damn long and worthy of being skipped
+    "eroge_score": "null, 0.0-INF", // Number of H-Scenes that weren't boring as hell
+
+    // Progress
+    "progressType": "null, routes, endings, episodes, sidestories",
+    "progressType2": "null, routes, endings, episodes, sidestories",
+    "routes": "null, [ null/integer, null/integer ]",
+    "endings": "null, [ null/integer, null/integer ]",
+    "episodes": "null, [ null/integer, null/integer ]",
+    "sidestories": "null, [ null/integer, null/integer ]",
+
+    "replaying": "null, false, true (increments progresses by + max)",
+    //"replayed": "null, integer (increments progresses by + replayed * max)",
+    "replays": [
+      {
+        "playtime": "null, hours[.minutes]",
+        "start": "null, yyyy-m-d",
+        "finish": "null, yyyy-m-d"
+      }
+      //...
+    ],
+
+    // Completion
+    "achievements": "null, [ null/integer, null/integer ]",
+    "completion": "null, percentage",
+
+    // Time
+    "playtime": "null, hours[.minutes]",
+    "start": "null, yyyy-m-d",
+    "finish": "null, yyyy-m-d",
+
+    // Personal Additions
+    "tags": "null, [ \"string separated tags\" ]",
+    "notes": "null, string, [ \"string separated lines\" (adds punctuation if missing) ]"
+  },
+
+  "playing": [
+  ],
+
+  "queued": [
+  ],
+
+  "completed": [{
+      "title": "Crystalline",
+      "url": "https://vndb.org/v19989",
+      "image": "/visualnovellist/covers/vn/crystalline.jpg",
+      "score": 8.6,
+      "progressType": "endings",
+      "endings": [ 8, 8 ], // True,A,B,C,D,E,G,F
+      "playtime": 57, // currently about 4 hours behind steam playtime due to launching without Steam.
+      "start": "2020-4-1",
+      "finish": "2020-7-18", // FREEEEEDOM
+      "tags": [
+        "English VA",
+        "Owned",
+        "Personality Choices",
+        "Zack Best Tsundere",
+        "Unoptimized hell of eternal crash and buffering"
+      ],
+      "notes": [
+        "The starts off a bit bland, but its completely redeamed by the huge number of meaningless choices that essentially allow you to pixk and choose the personality of the protagonist!"
+      ]
+    },
+    {
+      "title": "Hoshi Ori Yume Mirai",
+      "title_en": "HoshiOri, Star Weaving ☆ Dreaming of the Future",
+      "url": "https://vndb.org/v14265",
+      "image": "/visualnovellist/covers/vn/hoshiori.jpg",
+      "score": 6.5,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 6, 6 ],
+      "endings": [ 7, 7 ], // Touko is the only one with a bad end
+      "playtime": 223, // what a disaster...
+      "eroge": true,
+      "eroge_score": 3,
+      "start": "2019-4-9",
+      "finish": "2019-6-28",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Slice of Life"
+      ],
+      "notes": [
+        "The Dark Souls of moege (as a friend pit it). HoshiOri is... loooong, too long.",
+        "Take one route, make it longer than most visual novels alone, then multiply it by 6 routes.",
+        "The story adhears to all events in time for every route, and it starts to feel like watching the Endless Eight more than actually watching the Endless Eight.",
+        "The one enjoyable aspect was the in-game phone to fiddle with.",
+        "My accomplishment is taking enough photos with said phone to cause about 15-20 seconds of load time when viewing the photos app."
+      ]
+    },
+    {
+      "title": "Shining Song Starnova",
+      "url": "https://vndb.org/v19322",
+      "image": "/visualnovellist/covers/vn/shining-song-starnova.jpg",
+      "score": 8,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 7, 7 ],
+      "endings": [ 14, 14 ],
+      "achievements": [ 9, 9 ],
+      "completion": 100,
+      "playtime": 101,
+      "eroge": true,
+      "eroge_score": 0.75,
+      "start": "2019-5-8",
+      "finish": "2019-5-31",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Owned"
+      ],
+      "notes": [
+        "Shining Song Starnova leads the pack by delving into the idol industry in-depth, more than you'd see in any other story.",
+        "Each route is extremely different from the other, allowing for never a dull moment when reading.",
+        "Even some of the bad ends have a lot of effort put into them, enough so that they rate higher than a few good ends."
+      ]
+    },
+    {
+      "title": "Natsuiro no Sunadokei",
+      "title_en": "Hourglass of Summer",
+      "url": "https://vndb.org/v32",
+      "image": "/visualnovellist/covers/vn/natsuiro-no-sunadokei.jpg",
+      "score": 8,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 5, 5 ],
+      "endings": [ 17, 17 ],
+      "completion": 100, // There is no completion stat, but I've torn this game apart enough to have seen absolutely everything it has to offer.
+      "playtime": 64,
+      "start": "2019-4-17",
+      "finish": "2019-4-29",
+      "tags": [
+        "Cried",
+        "DVD",
+        "Password Saves",
+        "Lee Jane Best Girl"
+      ],
+      "notes": [
+        "Although the difficulty involved in attempting to play this VN is enough to deter most,",
+        "you'll quickly get used to the quirkiness of the visual novel developed to run on a goddamn DVD.",
+        "The rewards are charming CGs, cute and fun characters, and a fully voice protagonist.",
+        "The routes mostly take completely different paths and cover different parts of the time travel to create a full story.",
+        "My biggest complaint is that Lee Jane didn't get the full route she deserved."
+      ]
+    },
+    {
+      "title": "Eden* They Were Only Two, On The Planet.",
+      "url": "https://vndb.org/v1286",
+      "image": "/visualnovellist/covers/vn/eden.jpg",//"https://s.vndb.org/cv/22/3922.jpg",
+      "score": 7.5,
+      "progressType": "endings",
+      "progressType2": "sidestories",
+      "endings": [ 1, 1 ],
+      "sidestories": [ 4, 4 ],
+      "playtime": 18,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": "2019-4-5",
+      "finish": "2019-4-8",
+      "tags": [
+        "H-Scenes",
+        "Owned"
+      ],
+      "notes": [
+        "Eden* is composed of two arcs and a time gap in the middle.",
+        "Both arcs are very slow-paced and very little happens throughout.",
+        "At the worst of times the story is bland, and at the best of times the dialogue is like that of a sappy soap opera.",
+        "Maya was the only redeeming character in this sea emptiness,",
+        "although the standalone H-scenes were actually decent because they played out like mini heroine routes with actual story in them."
+      ]
+    },
+    {
+      "title": "Sunrider Academy",
+      "url": "https://vndb.org/v16221",
+      "image": "/visualnovellist/covers/vn/sunrider-academy.jpg",//"https://s.vndb.org/cv/40/22940.jpg",
+      "score": 8,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 4, 4 ],
+      "endings": [ 8, 8 ], // Disappointed sister, disbanded, hospitalized, flunk, Asaga, Sola, Ava, Chigara
+      "achievements": [ 20, 20 ],
+      "completion": 100,
+      "playtime": 33,
+      "eroge": true,
+      "eroge_score": 0,
+      "replays": [
+        {
+          "start": "2019-3-26",
+          "finish": "2019-4-2",
+          "playtime": 25
+        }
+      ],
+      "start": "2016-2-14",
+      "finish": "2016-2-18",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Owned",
+        "Great Meta Jokes"
+      ],
+      "notes": [
+        "The second visual novel I ever played. The routes varied in level of engagingness and most of the climaxes were anticlimactic.",
+        "What sells this game is the fact that it actually has dating sim mechanics, and that it's technically a canon alternative-universe of the main Sunrider series.",
+        "The meta humor and jabs at the original games was a healthy coping mechanism for the trauma caused by Liberation Day."
+      ]
+    },
+    {
+      "title": "Sunrider: Liberation Day",
+      "url": "https://vndb.org/v17694",
+      "image": "/visualnovellist/covers/vn/sunrider-liberation-day.jpg",//"https://s.vndb.org/cv/60/24760.jpg",
+      "score": 9,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 6, 6 ],
+      "endings": [ 19, 19 ],
+      "achievements": [ 47, 52 ],
+      "playtime": 28,
+      "eroge": true,
+      "eroge_score": 0.5,
+      "start": "2019-3-23",
+      "finish": "2019-3-25",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Owned",
+        "SRPG",
+        "Great OST"
+      ],
+      "notes": [
+        "Being a paid game, Liberation Day lost a lot of the beautiful music tracks that came with MoA which was a real bummer.",
+        "The introduction of story voice acting was surprising and definitely a big highlight.",
+        "A worthy sequel to MoA, but the mechanics of carrying over progression make completion a bit of a hassle.",
+        "The [RE]turn arc brings out the best of Sunrider's stories so far.",
+        "Asaga's H-scene in [RE]turn also had the best comedic writing I've read so far."
+      ]
+    },
+    {
+      "title": "Sunrider: Mask of Arcadius",
+      "url": "https://vndb.org/v14112",
+      "image": "/visualnovellist/covers/vn/sunrider-mask-of-arcadius.jpg",
+      "score": 8.5,
+      "progressType": "routes",
+      "routes": [ 2, 2 ],
+      "playtime": 25,
+      "start": "2019-3-21",
+      "finish": "2019-3-23", // 2019-3-22
+      "tags": [
+        "Cried",
+        "Owned",
+        "Free",
+        "English VA",
+        "SRPG",
+        "Great OST"
+      ],
+      "notes": [
+        "Coming from a free game, my expectations were blown away!",
+        "The OST was incredible and really brought the entire game to life in both the VN and gameplay elements.",
+        "The story was interesting, although a little predictable at times.",
+        "My biggest complaint is that Ren'Py is not designed to run a game such as this, and thus the game was very slow at times."
+      ]
+    },
+    {
+      "title": "Highway Blossoms",
+      "url": "https://vndb.org/v18381",
+      "image": "/visualnovellist/covers/vn/highway-blossoms.jpg",//"https://s.vndb.org/cv/71/26271.jpg",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 20, 20 ],
+      "playtime": 37,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": "2019-3-17",
+      "finish": "2019-3-18",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Owned",
+        "English VA",
+        "15h without Desert RV",
+        "Need to replay with Goofball Mode"
+      ],
+      "notes": [
+        "This game has it all!",
+        "Features a 19yo old protagonist that is more responsible in life than I am at 25 ✓.",
+        "Cute girls doing cute things and English voice acting that's adorable and enjoyable ✓.",
+        "Optional \"Extreme Difficulty\" that disables fast travel in a game about road trips ✓.",
+        "And an unlockable language that's salted with memes and then given a piss-poor English translation ✓."
+      ]
+    },
+    {
+      "title": "Lucy - Geunyeoga Baladeon Geos -",
+      "title_en": "Lucy -The Eternity She Wished For-",
+      "url": "https://vndb.org/v16743",
+      "image": "/visualnovellist/covers/vn/lucy.jpg",//"https://s.vndb.org/cv/99/23299.jpg",
+      "score": 9,
+      "progressType": "endings",
+      "endings": [ 3, 3 ],
+      "achievements": [ 15, 15 ],
+      "playtime": 9,
+      "start": "2019-3-12",
+      "finish": "2019-3-13",
+      "tags": [
+        "Owned",
+        "Cried"
+      ],
+      "notes": [
+        //"In the short time that I spent playing this visual novel I was was dumped into a ditch, then hit with a sack of bricks, then hit with an bigger, *older* sack of bricks.",
+        "Lucy -The Eternity She Wished For- will bring you to the depths of despair all while bringing a short and heartwarming story.",
+        "As long as you can get over the terrible UX design, you'll be able to enjoy the rest of the beauty this visual novel has to offer."
+      ]
+    },
+    {
+      "title": "Clannad",
+      "title_en": "CLANNAD",
+      "url": "https://vndb.org/v4",
+      "image": "/visualnovellist/covers/vn/clannad.jpg",//"https://s.vndb.org/cv/52/24252.jpg",
+      "score": 10,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 15, 15 ],
+      "endings": [ 27, 27 ], // 6 similar excluded bad ends, 5 Illusionary World, 1 Nagisa, all end with already-read lines
+      "sidestories": [ 1, 1 ],
+      "achievements": [ 22, 22 ],
+      "encyclopedia": [ 93, 96 ], // Missing 33, 71, and 90
+      "playtime": 130,
+      "start": "2019-2-5",
+      "finish": "2019-3-3",
+      "tags": [
+        "Owned",
+        "Cried",
+        "Destroyer of Tear Ducts",
+        "DECIMATOR OF TEAR DUCTS",
+        "Sunohara Worst Friend"
+      ],
+      "notes": [
+        "Clannad has the most robust and complex choice system I've ever seen in the visual novel, not to mention the most choices I've ever encountered in any game.",
+        "The developers took so much into account when implementing the effects choices had on the story.",
+        //"Being acquainted with someone can give slight variations in dialog that most other games would never bother to recognize.",
+        "Even without the variety of choices in the game, Clannad has a ridiculous amount of tearjerking moments that gave it the tag: DECIMATOR OF TEAR DUCTS.",
+        "No one is safe."
+      ]
+    },
+    {
+      "title": "Grisaia no Senritsu",
+      "title_en": "The Melody of Grisaia",
+      "url": "https://vndb.org/v19072",
+      "image": "/visualnovellist/covers/vn/grisaia-senritsu.jpg",//"https://s.vndb.org/cv/41/28041.jpg",
+      "score": 9,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "playtime": 2,
+      "start": "2019-2-4",
+      "finish": "2019-2-4",
+      "tags": [
+        "Owned",
+        "CatSystem2"
+      ],
+      "notes": [
+        "This was definitely the best of the 3 Grisaia shorts.",
+        "At the beginning I got a major sense deja-vu and it didn't click that it was an expansion of an arc in Meikyuu until the very end.",
+        "The witty back in forth was great as always and I can never get enough of Kazamu Yuuji's Declassified Life Protip Guide."
+      ]
+    },
+    {
+      "title": "Grisaia no Rakuen",
+      "title_en": "The Eden of Grisaia",
+      "url": "https://vndb.org/v7724",
+      "image": "/visualnovellist/covers/vn/grisaia-rakuen.jpg",//"https://s.vndb.org/cv/14/25914.jpg",
+      "score": 9.5,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 3, 3 ],
+      "endings": [ 4, 4 ],
+      "sidestories": [ 8, 8 ],
+      "completion": 100,
+      "playtime": 42,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": "2019-1-25",
+      "finish": "2019-2-4",
+      "tags": [
+        "H-Scenes",
+        "Owned",
+        "Cried",
+        "Michiru Best Girl",
+        "CatSystem2"
+      ],
+      "notes": [
+        "The finale for the Grisaia Trilogy, this absolutely blew me away!",
+        "We were given not only a conclusive and exciting end to the story, but a prologue to the beginning of Mihama Academy.",
+        "The main afterstory had a wonderful emotionally touching end and the prologue had its own sets of emotions that overwhelmed me numerous times.",
+        "I've heard others' dislike for Rakuen, but I honestly think this is the highlight of the series!",
+        "The comedy and emotions were so well executed, that it truly made me fall in love with Grisaia all over again."
+      ]
+    },
+    {
+      "title": "Grisaia no Zankou",
+      "title_en": "The Afterglow of Grisaia",
+      "url": "https://vndb.org/v18831",
+      "image": "/visualnovellist/covers/vn/grisaia-zankou.jpg",//"https://s.vndb.org/cv/56/27356.jpg",
+      "score": 8.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "playtime": 6,
+      "start": "2019-1-9",
+      "finish": "2019-1-10",
+      "tags": [
+        "Owned",
+        "Cried",
+        "CatSystem2"
+      ],
+      "notes": [
+        "Didn't expect to cry from such a short story but here we have it.",
+        "Another Grisaia short, but this time, focusing more on story than comedy. Of course there's still good comedy too."
+      ]
+    },
+    {
+      "title": "Doki Doki Do You Lift Club!",
+      "url": "https://vndb.org/v22717",
+      "image": "/visualnovellist/covers/vn/d2dlc.jpg",
+      "score": 8.5,
+      "progressType": "routes",
+      "routes": [ 3, 3 ],
+      "achievements": null,
+      "playtime": 3.16,
+      "start": "2019-1-7",
+      "finish": "2019-1-8",
+      "tags": [
+        "Owned",
+        "Fan Game",
+        "Free",
+        "Comedy Gold",
+        "Buffsuki Best Girl"
+      ],
+      "notes": [
+        "This had some really great comedy writing!",
+        "For a short mod, it certainly delivered a high level of quality that I absolutely fell in love with.",
+        "The absurdness of some of the scenes were perfect and the meta references were few but well executed."
+      ]
+    },
+    {
+      "title": "Summer's Clover",
+      "url": "https://vndb.org/v24425",
+      "image": "/visualnovellist/covers/vn/summers-clover.jpg",//"https://s.vndb.org/cv/31/37031.jpg",
+      "score": 6,
+      "progressType": "routes",
+      "routes": [ 2, 2 ],
+      "playtime": 13,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": "2019-1-3",
+      "finish": "2019-1-6",
+      "tags": [
+        "Owned",
+        "Fan Game",
+        "Free",
+        "Bad Art",
+        "Bad UI"
+      ],
+      "notes": [
+        "The sprites and UI are pretty poor. Many of the sprites legit look Frankensteined together.",
+        "The writing wasn't bad, but the stories never really went too deep into things.",
+        "The most interesting part was definitely getting to learn about Miki's life and backstory."
+      ]
+    },
+    {
+      "title": "DDLC Purist Mod",
+      "url": "https://twitter.com/ddlcpuristmod",
+      "image": "/visualnovellist/covers/vn/ddlc-purist-mod.jpg",
+      "score": 7.5,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 4, 4 ],
+      "endings": [ 9, 9 ],
+      "achievements": null,
+      "playtime": 26,
+      "start": "2018-12-9",
+      "finish": "2018-12-14",
+      "tags": [
+        "Owned",
+        "Fan Game",
+        "Free",
+        "Cried",
+        "Natsuki Best Route"
+      ],
+      "notes": [
+        "My first modded VN and an amazing ride.",
+        "Purist Mod turns DDLC into a normal dating sim via the best possible method of action, continuing the story.",
+        "This blew away the standards I had setup for what a modded VN would be like.",
+        "Natuski's route had comedic writing that was nearing Grisaia levels and Monika's route created a fantastic ending for the overall game."
+      ]
+    },
+    {
+      "title": "Fate/stay night",
+      "aliases": [ "fsn", "f/sn" ],
+      "url": "https://vndb.org/v11",
+      "image": "/visualnovellist/covers/vn/fate-stay-night.jpg",
+      "score": 10,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 3, 3 ],
+      "endings": [ 45, 45 ],
+      "playtime": 119,
+      "start": "2018-11-8",
+      "finish": "2018-12-8",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Missing 1 bugged CG"
+      ],
+      "notes": [
+        "Choices that challenge your sense of situation and an excessive amount of endings,",
+        "strong romantic+story development, and actions scenes that will knock your sheaths off.",
+        "Fate/stay night delivers THE ultimate visual novel experience,",
+        "something that even its high quality anime adaptions can't achieve with tons of bonus content rewarded through dedicated completion.",
+        "In the words of Gigguk: \"Just read the fucking visual novel\""
+      ]
+    },
+    {
+      "title": "Noble ☆ Works",
+      "aliases": [ "Noble Works" ],
+      "url": "https://vndb.org/v4806",
+      "image": "/visualnovellist/covers/vn/noble-works.jpg",//"https://s.vndb.org/cv/09/27809.jpg",
+      "score": 7.5,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 6, 6 ],
+      "endings": [ 7, 7 ],
+      "playtime": 108,
+      "eroge": true,
+      "eroge_score": 2,
+      "start": "2016-2-18",
+      "finish": "2018-11-7",
+      "tags": [
+        "H-Scenes",
+        "Nagamitsu Maya x2"
+      ],
+      "notes": [
+        "Originally dropped after Maya's route back in 2016 because it felt too generic.",
+        "I still stand by that statement, but I do appreciate the game a bit more after completion.",
+        "The main selling point would be the comedy and Shizuru's route, but everything else was just too normal with average resolutions."
+      ]
+    },
+    {
+      "title": "Rinkaiten ~Critical Point~",
+      "title_en": "Critical Point",
+      "url": "https://vndb.org/v145",
+      "image": "/visualnovellist/covers/vn/critical-point.jpg",//"https://s.vndb.org/cv/81/31581.jpg",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ 25, 25 ],
+      "playtime": 12,
+      "eroge": true,
+      "eroge_score": 2.5,
+      "start": "2018-3-14",
+      "finish": "2018-3-16",
+      "tags": [
+        "H-Scenes",
+        "Episode XII doesn't exist",
+        "Guide used for final missing episode VIII",
+        "Owned"
+      ],
+      "notes": [
+        "LOTS of choices and it's difficult to find every ending, but it's well worth the challenge.",
+        "The scenarios were quite amusing but it bugged me that that player choices affected plot from before the story started.",
+        "The H-scenes ranged from standard to pretty wacky, 1990's H-artstyle is also kind of \"creepy\".",
+        "We also get HIGH QUALITY CG renders that put even Overlord to shame."
+      ]
+    },
+    {
+      "title": "Steins;Gate 0",
+      "title_en": "STEINS;GATE 0",
+      "url": "https://vndb.org/v17102",
+      "image": "/visualnovellist/covers/vn/steins-gate-0.jpg",//"https://s.vndb.org/cv/11/35111.jpg",
+      "score": 9,
+      "progressType": "routes",
+      "routes": [ 6, 6 ],
+      "achievements": [ 28, 28 ],
+      "completion": 100,
+      "playtime": 50,
+      "start": "2018-5-13",
+      "finish": "2018-5-24",
+      "tags": [
+        "Cried",
+        "Amazing True ED",
+        "Japanese Shaman Girls",
+        "Owned"
+      ],
+      "notes": [
+        "Dr. Leskinen truly is a man among men!",
+        "His love for \"Lintahlo\" and Japenese Shaman Girls knows no limits!",
+        "This is a great continuation to the Steins;Gate series and the True ED absolutely blew me away!",
+        "The choice system is vastly improved from that of the original game."
+      ]
+    },
+    {
+      "title": "Steins;Gate",
+      "title_en": "STEINS;GATE",
+      "url": "https://vndb.org/v2002",
+      "image": "/visualnovellist/covers/vn/steins-gate.jpg",//"https://s.vndb.org/cv/04/5804.jpg",
+      "score": 9.5,
+      "progressType": "routes",
+      "routes": [ 6, 6 ],
+      "achievements": [ 42, 42 ],
+      "completion": 100,
+      "playtime": 44,
+      "start": "2017-9-22",
+      "finish": "2017-10-7",
+      "tags": [
+        "Cried",
+        "Owned"
+      ],
+      "notes": [
+        "An absolute masterpiece of a story, whether in VN or anime form!",
+        "KURISUTINA and HOUOUIN KYOUMA make a pair of the most interesting and lovable main characters to grace the monitor!"
+      ]
+    },
+    {
+      "title": "Saya no Uta",
+      "title_en": "The Song of Saya",
+      "url": "https://vndb.org/v97",
+      "image": "/visualnovellist/covers/vn/saya-no-uta.jpg",//"https://s.vndb.org/cv/75/8675.jpg",
+      "score": 9.5,
+      "progressType": "endings",
+      "endings": [ 3, 3 ],
+      "playtime": 6.46,
+      "start": "2018-6-18",
+      "finish": "2018-6-19",
+      "tags": [
+        "H-Scenes",
+        "True Psychological",
+        "Expensive",
+        "Owned"
+      ],
+      "notes": [
+        "A game that truly tests the limits of psychological horror story-telling.",
+        "It just keeps going farther and farther over the edge, and the intro was already pretty dark.",
+        "I had a lump in my stomach just reading some of the scenes and it takes a lot to affect me - I mean,",
+        "I read Emergence with no trouble compared to Saya no Uta.",
+        "Nowadays so many things bring back memories of this game.",
+        "Also, I will never look at distorted guitars the same way ever again."
+      ]
+    },
+    {
+      "title": "WORLD END ECONOMiCA",
+      "url": "https://vndb.org/v7184",
+      "image": "/visualnovellist/covers/vn/world-end-economica.jpg",//"https://s.vndb.org/cv/00/9700.jpg",
+      "score": 9,
+      "progressType": "episodes",
+      "episodes": [ 3, 3 ],
+      "playtime": 54,
+      "start": "2018-6-23",
+      "finish": "2018-7-7",
+      "tags": [
+        "Cried",
+        "Boring resolution",
+        "Owned"
+      ],
+      "notes": [
+        "A beautiful love story wrapped around the brutal world of stock trading.",
+        "This would have been a 9.5 easily if the final resolution wasn't so boring."
+      ]
+    },
+    {
+      "title": "Root Double -Before Crime * After Days-",
+      "url": "https://vndb.org/v5000",
+      "image": "/visualnovellist/covers/vn/root-double.jpg",//"https://s.vndb.org/cv/99/14499.jpg",
+      "score": 9,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 4, 4 ],
+      "endings": [ 39, 39 ],
+      "achievements": [ 49, 49 ],
+      "playtime": 105,
+      "start": "2018-7-11",
+      "finish": "2018-8-8",
+      "tags": [
+        "Cried",
+        "Enjoy the Flashbacks",
+        "Owned"
+      ],
+      "notes": [
+        "This is the story of a player, who against all odds, decided to sit down and spend over 50 hours reading just flashbacks.",
+        "It's no exaggeration to say this VN is built on all of the flashbacks it brings up.",
+        "Root Double has a pretty unique choice system and plenty of good plot twists to keep you entertained throughout.",
+        "It may be a chore to get through at times, but it's worth the effort."
+      ]
+    },
+    {
+      "title": "Dangan Ronpa Kibou no Gakuen to Zetsubou no Koukousei",
+      "title_en": "Danganronpa: Trigger Happy Havoc",
+      "aliases": [ "Danganronpa 1" ],
+      "url": "https://vndb.org/v7014",
+      "image": "/visualnovellist/covers/vn/danganronpa-1.jpg",//"https://s.vndb.org/cv/21/18121.jpg",
+      "score": 9,
+      "progressType": "endings",
+      "progressType2": "sidestories",
+      "endings": [ 2, 2 ],
+      "sidestories": [ 5, 5 ],
+      "achievements": [ 38, 38 ],
+      "playtime": 46,
+      "start": "2016-12-29",
+      "finish": "2017-1-5",
+      "tags": [
+        "Chihiro Best Girl",
+        "Owned",
+        "Detective"
+      ],
+      "notes": [
+        "Combined with mystery, plot twists, interactive gameplay, and quality graphics: This game delivers the best \"Game of Killing\" over any other!"
+      ]
+    },
+    {
+      "title": "Doki Doki Literature Club!",
+      "url": "https://vndb.org/v21905",
+      "image": "/visualnovellist/covers/vn/ddlc.jpg",//"https://s.vndb.org/cv/43/34243.jpg",
+      "score": 9,
+      "hideProgress": true,
+      "progressType": "endings",
+      "endings": [ 2, 2 ],
+      "playtime": 9,
+      "start": "2017-10-22",
+      "finish": "2017-10-23",
+      "tags": [
+        "Owned",
+        "Free",
+        "Read EVERY Monika dialog line"
+      ],
+      "notes": [
+        "WARNING: DO NOT READ ANYTHING ABOUT THE GAME BEFORE PLAYING IT!"
+      ]
+    },
+    {
+      "title": "Fault Milestone One",
+      "title_en": "fault - milestone one",
+      "url": "https://vndb.org/v12694",
+      "image": "/visualnovellist/covers/vn/fault-milestone-1.jpg",//"https://s.vndb.org/cv/55/21155.jpg",
+      "score": 8.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 12, 12 ],
+      "playtime": 8,
+      "start": "2018-3-7",
+      "finish": "2018-3-8",
+      "replays": [
+        {
+          "start": "2020-3-6",
+          "finish": "2020-3-10",
+          "playtime": 9
+        }
+      ],
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "Loveable storytelling with an even more lovable main character Run.",
+        "Fault Milestone has fascinating world building that just leaves you wanting more!"
+      ]
+    },
+    {
+      "title": "Fault Milestone 2 Jou (Side: Above)",
+      "title_en": "fault - milestone two side:above",
+      "url": "https://vndb.org/v15252",
+      "image": "/visualnovellist/covers/vn/fault-milestone-2-side-above.jpg",//"https://s.vndb.org/cv/62/33762.jpg",
+      "score": 9,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 9, 9 ],
+      "playtime": 8,
+      "start": "2018-3-12",
+      "finish": "2018-3-13",
+      "replays": [
+        {
+          "start": "2020-3-11",
+          "finish": "2020-3-23",
+          "playtime": 11
+        }
+      ],
+      "tags": [
+        "Cried",
+        "Owned",
+        "Guest Star: House M.D."
+      ],
+      "notes": [
+        "Again we see beautiful world building, Run being Run, and a side dish of heartbreak."
+      ]
+    },
+    {
+      "title": "Grisaia no Kajitsu",
+      "title_en": "The Fruit of Grisaia",
+      "url": "https://vndb.org/v5154",
+      "image": "/visualnovellist/covers/vn/grisaia-kajitsu.jpg",//"https://s.vndb.org/cv/13/25913.jpg",
+      "score": 10,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 5, 5 ],
+      "endings": [ 10, 10 ],
+      "completion": 100,
+      "playtime": 113,
+      "eroge": true,
+      "eroge_score": 1,
+      "start": "2017-7-5",
+      "finish": "2017-8-4",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Comedy Gold",
+        "Sachi Best Girl",
+        "Michiru Best Route",
+        "Owned",
+        "CatSystem2"
+      ],
+      "notes": [
+        "My absolute favorite VN of all time.",
+        "The writers are comedy geniuses, the characters are all wonderful, and the routes themselves are anything but standard.",
+        "The protagonist Yuuji actually has an interesting personality.",
+        "He's a hard-ass, tsundere, that doesn't take shit from anyone. Some even go so far as to call him \"best girl\"."
+      ],
+      "notes_technical": [
+        "WARNING: Avoid buying this on Steam at all costs.",
+        "There is a patch, but only for the first game, and it has a few major bugs.",
+        "If you're stuck with the Steam version, contact me for the patch. The later main games DO NOT have patches, buy them on Denpasoft."
+      ]
+    },
+    {
+      "title": "Grisaia no Meikyuu",
+      "title_en": "The Labyrinth of Grisaia",
+      "url": "https://vndb.org/v7723",
+      "image": "/visualnovellist/covers/vn/grisaia-meikyuu.jpg",//"https://s.vndb.org/cv/74/31974.jpg",
+      "score": 9,
+      "progressType": "routes",
+      "progressType2": "sidestories",
+      "routes": [ 6, 6 ],
+      "sidestories": [ 39, 39 ],
+      "completion": 100,
+      "playtime": 49,
+      "eroge": true,
+      "eroge_score": 1,
+      "start": "2018-3-21",
+      "finish": "2018-3-29",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Sachi Best Girl",
+        "Michiru Best Afterstory",
+        "Owned",
+        "CatSystem2"
+      ],
+      "notes": [
+        "Grisaia continues to maintain it's quality writing with 5 afterstories, and main route.",
+        "Yuuji continues to dominate the playing field to maintain his status as \"best girl\" and best protagonist!",
+        "Comes with quite a few short stories, some of them are hit or miss, but most are worth a good chuckle."
+      ]
+    },
+    {
+      "title": "Grisaia no Yuukan",
+      "title_en": "The Leisure of Grisaia",
+      "url": "https://vndb.org/v18830",
+      "image": "/visualnovellist/covers/vn/grisaia-yuukan.jpg",//"https://s.vndb.org/cv/55/27355.jpg",
+      "score": 7.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "playtime": 1.07,
+      "start": "2018-3-19",
+      "finish": "2018-3-19",
+      "tags": [
+        "Owned",
+        "CatSystem2"
+      ],
+      "notes": [
+        "FUN FACT: This game is labeled as SFW, yet there's actually a nude sprite for Michiru hidden in the \"image.int\" file, HAH!"
+      ]
+    },
+    {
+      "title": "Idol Mahou Shoujo Chiruchiru ☆ Michiru",
+      "title_en": "Idol Magical Girl Chiru Chiru Michiru",
+      "url": "https://vndb.org/v14973",
+      "image": "/visualnovellist/covers/vn/idol-mahou-shoujo-chiruchiru.jpg",//"https://s.vndb.org/cv/58/33658.jpg",
+      "score": 9.5,
+      "progressType": "episodes",
+      "episodes": [ 13, 13 ],
+      "playtime": 17,
+      "start": "2018-3-8",
+      "finish": "2018-3-11",
+      "tags": [
+        "Cried",
+        "Comedy Gold",
+        "Owned",
+        "CatSystem2"
+      ],
+      "notes": [
+        "I HATE magical girl spinoffs with a passion, yet I LOVE this VN!",
+        "This is a spinoff that truly does justice to the comedy style of the main Grisaia series,",
+        "starring everyone's favorite tsundoofus: Chiruchiru!",
+        "It's my all-time favorite VN when it comes to comedy, and it even made me cry."
+      ]
+    },
+    {
+      "title": "Kono Oozora ni, Tsubasa o Hirogete",
+      "title_en": "If My Heart Had Wings",
+      "url": "https://vndb.org/v9093",
+      "image": "/visualnovellist/covers/vn/imhhw.jpg",//"https://upload.wikimedia.org/wikipedia/en/thumb/7/70/If_My_Heart_Had_Wings_Coverart.png/220px-If_My_Heart_Had_Wings_Coverart.png",//"https://s.vndb.org/cv/91/32691.jpg",
+      "score": 9,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 5, 5 ],
+      "endings": [ 6, 6 ], // TODO: confirm (5 heroines good (no bad), 1 common)
+      "achievements": [ 20, 20 ],
+      "completion": 100,
+      "playtime": 67,
+      "eroge": true,
+      "eroge_score": 2,
+      "start": "2016-1-23",
+      "finish": "2018-3-3",
+      "tags": [
+        "H-Scenes",
+        "Cried",
+        "Hotaru Best Girl",
+        "Owned"
+      ],
+      "notes": [
+        "Has a slow start, but worth the effort as the routes are all really well done and unique.",
+        "Hotaru is best girl for all her snappy comebacks."
+      ],
+      "notes_technical": [
+        "This game is a nightmare to patch, MoeNovel butchered the original game so make sure you follow the patching guides."
+      ]
+    },
+    {
+      "title": "Katawa Shoujo",
+      "aliases": [ "Disability Girls" ],
+      "url": "https://vndb.org/v945",
+      "image": "/visualnovellist/covers/vn/katawa-shoujo.jpg",//"https://s.vndb.org/cv/59/2059.jpg",
+      "score": 9.5,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 5, 5 ],
+      "endings": [ 13, 13 ],
+      "completion": 100,
+      "playtime": 71, // Original playtime unknown, estimated around 60-75 hours
+      "start": "2016-2-20",
+      "finish": "2016-2-24",
+      "replays": [
+        {
+          "start": "2018-12-21",
+          "finish": "2019-1-3",
+          "playtime": 89
+        }
+      ],
+      "tags": [
+        "Owned",
+        "H-Scenes",
+        "Cried",
+        "Hanako Best Girl",
+        "Free"
+      ],
+      "notes": [
+        "A widely beloved VN that originated from 4chan.",
+        "It has a large amount of choices and the stories are amazingly written.",
+        "There is NO better visual novel to recommend than Katawa Shoujo, it's an absolute must-play! And it's free!",
+        "Each of the routes revolve much more around emotions and personal issues than outside issues like in other VNs.",
+        "The protagonist not only has to help the heroine, but overcome his own difficulties as well.",
+        "My 3rd finished VN."
+      ]
+    },
+    {
+      "title": "Neko Para Vol.0 Minazuki Neko-tachi no Nichijou!",
+      "title_en": "NEKOPARA Vol. 0",
+      "url": "https://vndb.org/v17763",
+      "image": "/visualnovellist/covers/vn/nekopara-0.jpg",//"https://s.vndb.org/cv/25/25525.jpg",
+      "score": 5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 13, 13 ],
+      "playtime": 3,
+      "start": "2018-3-6",
+      "finish": "2018-3-6",
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "What a terrible introduction to the series.",
+        "The animations felt really awkward and the music transitions poorly done.",
+        "Not only that, but the story (or lack thereof) and gags were lame."
+      ]
+    },
+    {
+      "title": "Neko Para Vol.1 Soleil Kaiten Shimashita!",
+      "title_en": "NEKOPARA Vol. 1",
+      "url": "https://vndb.org/v15538",
+      "image": "/visualnovellist/covers/vn/nekopara-1.jpg",//"https://s.vndb.org/cv/39/22939.jpg",
+      "score": 6.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 14, 14 ],
+      "playtime": 8,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": "2018-3-6",
+      "finish": "2018-3-7",
+      "tags": [
+        "H-Scenes",
+        "Owned"
+      ],
+      "notes": [
+        "Cute, but still pretty boring",
+        "The only time I touched myself was when I had an itch",
+        "Also the imouto is annoying as all hell"
+      ]
+    },
+    {
+      "title": "No One But You",
+      "url": "https://vndb.org/v17564",
+      "image": "/visualnovellist/covers/vn/no-one-but-you.jpg",//"https://s.vndb.org/cv/36/27436.jpg",
+      "score": 7,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 4, 4 ],
+      "endings": [ 11, 11 ], // Todo: Confirm (4 heroine good, 5 heroine bad, 1 male, 1 drown)
+      "achievements": [ 18, 18 ],
+      "completion": 100,
+      "playtime": 10,
+      "start": "2016-1-22",
+      "finish": "2016-1-23",
+      "tags": [
+        "H-Scenes", // Todo: Confirm Love or H Scenes
+        "Cried",
+        "First VN",
+        "Owned"
+      ],
+      "notes": [
+        "The first visual novel I ever played. I viewed it pretty highly when first played, but I imagine it won't hold up during a replay."
+      ]
+    },
+    {
+      "title": "Hyperdimension Neptunia Re;Birth1",
+      "url": "https://store.steampowered.com/app/282900/Hyperdimension_Neptunia_ReBirth1___ReBirth1__1/",
+      "image": "/visualnovellist/covers/vn/hdn-rebirth1.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/b/b4/ReBirth_1_Coverart.png/revision/latest?cb=20140820030933",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ 2, 2 ],
+      "achievements": [ 45, 45 ],
+      "completion": null,
+      "playtime": 125,
+      "start": "2016-10-18",
+      "finish": "2016-10-25",
+      "tags": [
+        "Owned",
+        "JRPG"
+      ],
+      "notes": [
+        "Bring your waifus into the wonderful world of gaming!",
+        "This is a goldmine of memes and parodying other visual novels/anime.",
+        "The gameplay is interesting and not that grindy, but the balance feels pretty off.",
+        "This entire series can be labeled as \"Asset Reuse - The Game\"!"
+      ],
+      "notes_technical": [
+        "The PC version of this game is a port, so go in expecting daily crashes.",
+        "ALWAYS apply the 4GB patch to these games."
+      ]
+    },
+    {
+      "title": "Hyperdimension Neptunia Re;Birth2: Sisters Generation",
+      "url": "https://store.steampowered.com/app/351710/Hyperdimension_Neptunia_ReBirth2_Sisters_Generation___ReBirth2____2/",
+      "image": "/visualnovellist/covers/vn/hdn-rebirth2.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/3/3a/Re%3BBirth2_SE.jpg/revision/latest?cb=20150519225219",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ 9, 9 ],
+      "achievements": [ 41, 41 ],
+      "completion": null,
+      "playtime": 115,
+      "start": "2016-11-8",
+      "finish": "2016-11-17",
+      "tags": [
+        "Cried",
+        "Conquest Best Ending",
+        "Owned",
+        "JRPG"
+      ],
+      "notes": [
+        "This is probably the worst of the Re;Birth trilogy yet it has the BEST ending out of any of them.",
+        "THE CONQUEST ENDING: Take a happy normal gaming experience and turn it into a heartbreaking journey that betrays everything you believed in - I cried."
+      ],
+      "notes_technical": [
+        "The worst in the trilogy when it comes to crashes, especially when hunting rare hidden treasures."
+      ]
+    },
+    {
+      "title": "Hyperdimension Neptunia Re;Birth3 V Generation",
+      "url": "https://store.steampowered.com/app/353270/Hyperdimension_Neptunia_ReBirth3_V_Generation___ReBirth3_V_CENTURY____3/",
+      "image": "/visualnovellist/covers/vn/hdn-rebirth3.jpg",//"https://vignette.wikia.nocookie.net/hyperdimensionneptunia/images/a/a9/Re%3BBirth3VGeneration.jpg/revision/latest?cb=20150914184503",
+      "score": 8.5,
+      "progressType": "endings",
+      "endings": [ 3, 3 ],
+      "achievements": [ 42, 42 ],
+      "completion": null,
+      "playtime": 151,
+      "start": "2016-11-29",
+      "finish": "2016-12-9",
+      "tags": [
+        "Top Nep",
+        "So Much Power",
+        "Owned",
+        "JRPG"
+      ],
+      "notes": [
+        "The best game of the Re;Birth trilogy story and gameplay-wise.",
+        "Gameplay has been tweaked and improved a bit from the last two iterations.",
+        "My only gripe is that some of the optional end-game content is impossible even at the level cap."
+      ]
+    }
+  ],
+
+  "onhold": [
+    {
+      "title": "Little Busters!",
+      "url": "https://vndb.org/v5",
+      "image": "/visualnovellist/covers/vn/little-busters.jpg",//"https://s.vndb.org/cv/67/24267.jpg",
+      "score": null,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ null, null ],
+      "endings": [ null, null ],
+      "achievements": [ 1, 27 ],
+      "playtime": 0.55,
+      "start": "2019-3-15",
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "The sprites scare me more than Clannad and the voice acting quality is the total opposite of Clannad.",
+        "Shelved for a day when I've run out of backlog."
+      ]
+    },
+    {
+      "title": "MegaTagmension Blanc + Neptune VS Zombies (Neptunia)",
+      "url": "https://store.steampowered.com/app/496810/MegaTagmension_Blanc__Neptune_VS_Zombies_Neptunia/",
+      "image": "/visualnovellist/covers/vn/megatagmension-blanc.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/d/d4/BvZ_Standard.jpg/revision/latest?cb=20160413175446",
+      "score": null,
+      "progressType": null,
+      "achievements": [ 4, 36 ],
+      "playtime": 4,
+      "start": "2016-12-31",
+      "finish": null,
+      "tags": [
+        "Cannot physically play",
+        "Owned",
+        "Hack and Slash"
+      ],
+      "notes": null
+    }
+  ],
+
+  "dropped": [
+
+  ],
+
+  "planning": [
+    {
+      "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
+      "title_en": "Danganronpa 2: Goodbye Despair",
+      "url": "https://vndb.org/v7679",
+      "image": "/visualnovellist/covers/vn/danganronpa-2.jpg",//"https://s.vndb.org/cv/20/18120.jpg",
+      "score": null,
+      "progressType": "endings",
+      "achievements": [ null, 47 ],
+      "completion": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Detective"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Megadimension Neptunia VII",
+      "url": "https://store.steampowered.com/app/460120/Megadimension_Neptunia_VII/",
+      "image": "/visualnovellist/covers/vn/mdn-vii.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/1/19/V2_SE_Cover.jpg/revision/latest?cb=20160116002938",
+      "score": null,
+      "progressType": "endings",
+      "achievements": [ null, 35 ],
+      "completion": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "JRPG"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Hyperdimension Neptunia U: Action Unleashed",
+      "url": "https://store.steampowered.com/app/387340/Hyperdimension_Neptunia_U_Action_Unleashed/",
+      "image": "/visualnovellist/covers/vn/hdn-u.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/3/37/Neptunia_U_SE.jpg/revision/latest?cb=20150519223925",
+      "score": null,
+      "progressType": null,
+      "achievements": [ null, 35 ],
+      "completion": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Hack and Slash"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Karakara",
+      "title_en": "KARAKARA",
+      "url": "https://vndb.org/v18974",
+      "image": "/visualnovellist/covers/vn/karakara.jpg",//"https://s.vndb.org/cv/07/29807.jpg",
+      "score": null,
+      "progressType": "routes",
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 7 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Go! Go! Nippon! ~My First Trip to Japan~",
+      "url": "https://vndb.org/v7316",
+      "image": "/visualnovellist/covers/vn/go-go-nipon.jpg",//"https://s.vndb.org/cv/37/26637.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 85 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Missing DLC"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Stay! Stay! Democratic People's Republic of Korea",
+      "url": "https://vndb.org/v19616",
+      "image": "/visualnovellist/covers/vn/stay-stay-dprk.jpg",//"https://s.vndb.org/cv/23/29923.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Memory's Dogma CODE:01",
+      "url": "https://vndb.org/v17655",
+      "image": "/visualnovellist/covers/vn/memorys-dogma.jpg",//"https://s.vndb.org/cv/08/24808.jpg",
+      "score": null,
+      "progressType": "routes",
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 9 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Shizuku no Oto",
+      "title_en": "Sound of Drop -fall into poison-",
+      "url": "https://vndb.org/v15940",
+      "image": "/visualnovellist/covers/vn/shizuku-no-oto.jpg",//"https://s.vndb.org/cv/90/21790.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 21 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Japanese School Life",
+      "url": "https://vndb.org/v18387",
+      "image": "/visualnovellist/covers/vn/japanese-school-life.jpg",//"https://s.vndb.org/cv/54/29854.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 6 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Ame no Marginal",
+      "title_en": "Ame no Marginal -Rain Marginal-",
+      "url": "https://vndb.org/v16695",
+      "image": "/visualnovellist/covers/vn/ame-no-marginal.jpg",//"https://s.vndb.org/cv/11/23211.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Neko Para Vol.2 Shimai Neko no Sucre",
+      "title_en": "NEKOPARA Vol. 2",
+      "url": "https://vndb.org/v18713",
+      "image": "/visualnovellist/covers/vn/nekopara-2.jpg",//"https://s.vndb.org/cv/75/27275.jpg",
+      "score": null,
+      "progressType": "endings",
+      "routes": null,
+      "endings": [ null, 1 ],
+      "achievements": [ null, 20 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "H-Scenes",
+        "Owned",
+        "Missing DLC"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Narcissu",
+      "url": "https://vndb.org/v10",
+      "image": "/visualnovellist/covers/vn/narcissu.jpg",//"https://s.vndb.org/cv/00/8900.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Missing DLC"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Subarashiki Hibi ~Furenzoku Sonzai~",
+      "title_en": "Wonderful Everyday Down the Rabbit-Hole",
+      "aliases": [ "SubaHibi" ],
+      "url": "https://vndb.org/v3144",
+      "image": "/visualnovellist/covers/vn/subahibi.jpg",//"https://s.vndb.org/cv/19/4519.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Swan Song",
+      "url": "https://vndb.org/v914",
+      "image": "/visualnovellist/covers/vn/swan-song.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Cross†Channel",
+      "title_en": "CROSS†CHANNEL",
+      "url": "https://vndb.org/v66",
+      "image": "/visualnovellist/covers/vn/cross-channel.jpg",//"https://s.vndb.org/cv/04/16904.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Ace Academy",
+      "url": "https://vndb.org/v13948",
+      "image": "/visualnovellist/covers/vn/ace-academy.jpg",//"https://s.vndb.org/cv/77/25777.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Kara no Shoujo",
+      "title_en": "Girl in the Shell",
+      "url": "https://vndb.org/v810",
+      "image": "/visualnovellist/covers/vn/kara-no-shoujo.jpg",//"https://s.vndb.org/cv/87/26087.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Ever17 -The Out of Infinity-",
+      "url": "https://vndb.org/v17",
+      "image": "/visualnovellist/covers/vn/ever17.jpg",//"https://s.vndb.org/cv/60/24260.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "G-senjou no Maou",
+      "title_en": "G-senjou no Maou - The Devil on G-String - ",
+      "url": "https://vndb.org/v211",
+      "image": "/visualnovellist/covers/vn/g-senjou-no-maou.jpg",//"https://s.vndb.org/cv/42/26442.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "H-Scenes",
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Kikouyoku Senki Tenkuu no Yumina",
+      "title_en": "Yumina the Ethereal",
+      "url": "https://vndb.org/v1155",
+      "image": "/visualnovellist/covers/vn/kikouyoku-senki-tenkuu-no-yumina.jpg",//"https://s.vndb.org/cv/24/1424.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "H-Scenes",
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Newton to Ringo no Ki",
+      "url": "https://vndb.org/v20330",
+      "image": "/visualnovellist/covers/vn/newton-to-ringo-no-ki.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "H-Scenes",
+        "Wishlist",
+        "CatSystem2"
+      ],
+      "notes": null
+    },
+   /* {  // Change of plans... let's not
+      "title": "euphoria",
+      "url": "https://vndb.org/v6540",
+      "image": "/visualnovellist/covers/vn/euphoria.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "H-Scenes",
+        "Wishlist"
+      ],
+      "notes": null
+    }, */
+    {
+      "title": "Doki Doki! New Eyes",
+      "url": "https://vndb.org/v23036",
+      "image": "/visualnovellist/covers/vn/doki_doki_new_eyes.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Fan Game",
+        "Free"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Doki Doki! RainClouds",
+      "url": "https://vndb.org/v22637",
+      "image": "/visualnovellist/covers/vn/doki_doki_rainclouds.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Fan Game",
+        "Free"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Kono Oozora ni, Tsubasa o Hirogete Flight Diary",
+      "title_en": "If My Heart Had Wings -Flight Diary-",
+      "url": "https://vndb.org/v10979",
+      "image": "/visualnovellist/covers/vn/imhhw-flight-diary.jpg",
+      "score": null,
+      "progressType": null,
+      "routes": null,
+      "achievements": [ null, 20 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Ao no Kanata no Four Rhythm",
+      "url": "https://vndb.org/v12849",
+      "image": "/visualnovellist/covers/vn/aokana.jpg",
+      "score": null,
+      "progressType": "routes",
+      "progressType2": null,
+      "routes": [ null, null ],
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Tomoyo After ~It's a Wonderful Life~",
+      "url": "https://vndb.org/v12",
+      "image": "/visualnovellist/covers/vn/tomoyo-after.jpg",
+      "score": null,
+      "progressType": null,
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 27 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Sunrider 4: The Captain's Return",
+      "url": "https://vndb.org/v25544",
+      "image": "/visualnovellist/covers/vn/sunrider-4.jpg",
+      "score": null,
+      "progressType": null,
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "X-Note",
+      "url": "https://vndb.org/v6915",
+      "image": "/visualnovellist/covers/vn/x-note.jpg",
+      "score": null,
+      "progressType": null,
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": null,
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "VA-11 HALL-A",
+      "url": "https://vndb.org/v18872",
+      "image": "/visualnovellist/covers/vn/va11halla.jpg",
+      "score": null,
+      "progressType": "endings",
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 34 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Death end re;Quest",
+      "url": "https://vndb.org/v25796",
+      "image": "/visualnovellist/covers/vn/death-end-request.jpg",
+      "score": null,
+      "progressType": "endings",
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 39 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist",
+        "JRPG"
+      ],
+      "notes": null
+    },
+    {
+      "title": "Steins;Gate Senkei Kousoku no Phenogram",
+      "title_en": "STEINS;GATE: Linear Bounded Phenogram",
+      "url": "https://vndb.org/v25796",
+      "image": "/visualnovellist/covers/vn/steins-gate-linear.jpg",
+      "score": null,
+      "progressType": "endings",
+      "endings": [ null, 1 ],
+      "achievements": [ null, 35 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    }
+  ]
+}
