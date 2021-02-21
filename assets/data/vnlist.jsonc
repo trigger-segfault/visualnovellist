@@ -55,7 +55,9 @@
       "image": "/visualnovellist/covers/vn/aokana.jpg",
       "score": 8.5,
       "progressType": "routes",
+      "progressType2": "endings",
       "routes": [ 4, 4 ],
+      "endings": [ 5, 5 ], // Heroine routes + Bad "Muscles" End
       "achievements": [ 22, 22 ],
       "playtime": 77,
       "eroge": true,
@@ -64,7 +66,8 @@
       "finish": "2021-2-16",
       "tags": [
         "Owned",
-        "Cried"
+        "Cried",
+        "Rika Best Girl"
       ],
       "notes": null
     },
@@ -72,7 +75,7 @@
       "title": "Crystalline",
       "url": "https://vndb.org/v19989",
       "image": "/visualnovellist/covers/vn/crystalline.jpg",
-      "score": 8.6,
+      "score": 8,
       "progressType": "endings",
       "endings": [ 8, 8 ], // True,A,B,C,D,E,G,F
       "playtime": 57, // currently about 4 hours behind steam playtime due to launching without Steam.
