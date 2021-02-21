@@ -783,7 +783,7 @@ var VisualNovelList;
     var currentTag = null;
     var touchedTbody = null;
     function initializeVNList() {
-        loadJSON('/anime/assets/data/vnlist.jsonc', initializeVNListJson);
+        loadJSON('/visualnovellist/assets/data/vnlist.jsonc', initializeVNListJson);
     }
     VisualNovelList.initializeVNList = initializeVNList;
     function initializeVNListJson(jsonText) {

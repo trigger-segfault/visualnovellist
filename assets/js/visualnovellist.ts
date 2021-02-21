@@ -876,7 +876,7 @@ var currentTag: string = null;
 var touchedTbody: HTMLTableSectionElement = null;
 
 export function initializeVNList() {
-	loadJSON('/anime/assets/data/vnlist.jsonc', initializeVNListJson);
+	loadJSON('/visualnovellist/assets/data/vnlist.jsonc', initializeVNListJson);
 }
 
 function initializeVNListJson(jsonText: string) {
