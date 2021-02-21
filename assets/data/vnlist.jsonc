@@ -50,6 +50,25 @@
   ],
 
   "completed": [{
+      "title": "Ao no Kanata no Four Rhythm",
+      "url": "https://vndb.org/v12849",
+      "image": "/visualnovellist/covers/vn/aokana.jpg",
+      "score": 8.5,
+      "progressType": "routes",
+      "routes": [ 4, 4 ],
+      "achievements": [ 22, 22 ],
+      "playtime": 77,
+      "eroge": true,
+      "eroge_score": 2,
+      "start": "2020-9-25",
+      "finish": "2021-2-16",
+      "tags": [
+        "Owned",
+        "Cried"
+      ],
+      "notes": null
+    },
+    {
       "title": "Crystalline",
       "url": "https://vndb.org/v19989",
       "image": "/visualnovellist/covers/vn/crystalline.jpg",
@@ -1612,24 +1631,6 @@
       "finish": null,
       "tags": [
         "Wishlist"
-      ],
-      "notes": null
-    },
-    {
-      "title": "Ao no Kanata no Four Rhythm",
-      "url": "https://vndb.org/v12849",
-      "image": "/visualnovellist/covers/vn/aokana.jpg",
-      "score": null,
-      "progressType": "routes",
-      "progressType2": null,
-      "routes": [ null, null ],
-      "endings": null,
-      "achievements": null,
-      "playtime": null,
-      "start": null,
-      "finish": null,
-      "tags": [
-        "Owned"
       ],
       "notes": null
     },
