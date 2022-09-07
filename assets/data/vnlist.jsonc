@@ -1159,6 +1159,28 @@
         "Gameplay has been tweaked and improved a bit from the last two iterations.",
         "My only gripe is that some of the optional end-game content is impossible even at the level cap."
       ]
+    },
+    {
+      "title": "MegaTagmension Blanc + Neptune VS Zombies",
+      "url": "https://store.steampowered.com/app/496810/MegaTagmension_Blanc__Neptune_VS_Zombies_Neptunia/",
+      "image": "/visualnovellist/covers/vn/megatagmension-blanc.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/d/d4/BvZ_Standard.jpg/revision/latest?cb=20160413175446",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ 2, 2 ],
+      "achievements": [ 31, 36 ],
+      "playtime": 29,
+      "start": "2016-12-31",
+      "finish": "2022-9-7",
+      "tags": [
+        "Owned",
+        "Hack and Slash"
+      ],
+      "notes": [
+        "I had more fun playing this than I was expecting.",
+        "The controls can feel pretty janky and aimed towards *random button mashing* at first,",
+        "but you slowly get the hang of *intended button mashing* later on.",
+        "The Iron Comboist achievement is a sick joke that's downright unhealthy for you hands."
+      ]
     }
   ],
 
@@ -1183,23 +1205,6 @@
         "The sprites scare me more than Clannad and the voice acting quality is the total opposite of Clannad.",
         "Shelved for a day when I've run out of backlog."
       ]
-    },
-    {
-      "title": "MegaTagmension Blanc + Neptune VS Zombies (Neptunia)",
-      "url": "https://store.steampowered.com/app/496810/MegaTagmension_Blanc__Neptune_VS_Zombies_Neptunia/",
-      "image": "/visualnovellist/covers/vn/megatagmension-blanc.jpg",//"https://vignette.wikia.nocookie.net/neptunia/images/d/d4/BvZ_Standard.jpg/revision/latest?cb=20160413175446",
-      "score": null,
-      "progressType": null,
-      "achievements": [ 4, 36 ],
-      "playtime": 4,
-      "start": "2016-12-31",
-      "finish": null,
-      "tags": [
-        "Cannot physically play",
-        "Owned",
-        "Hack and Slash"
-      ],
-      "notes": null
     }
   ],
 
