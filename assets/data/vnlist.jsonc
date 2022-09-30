@@ -61,25 +61,6 @@
         "Detective"
       ],
       "notes": null
-    },
-    {
-      "title": "Hyperdevotion Noire: Goddess Black Heart",
-      "url": "https://store.steampowered.com/app/415480/Hyperdevotion_Noire_Goddess_Black_Heart_Neptunia/",
-      "image": "/visualnovellist/covers/vn/hyperdevotion-noire.jpg",
-      "score": 6.5,
-      "progressType": "endings",
-      "endings": [ null, 2 ],
-      "achievements": [ 37, 51 ],
-      "completion": null,
-      "playtime": 90,
-      "start": "2022-9-8",
-      "finish": null,
-      "tags": [
-        "Owned",
-        "Please fire Secretary",
-        "Poona best special"
-      ],
-      "notes": null
     }
   ],
 
@@ -1200,6 +1181,25 @@
         "but you slowly get the hang of *intended button mashing* later on.",
         "The Iron Comboist achievement is a sick joke that's downright unhealthy for your hands."
       ]
+    },
+    {
+      "title": "Hyperdevotion Noire: Goddess Black Heart",
+      "url": "https://store.steampowered.com/app/415480/Hyperdevotion_Noire_Goddess_Black_Heart_Neptunia/",
+      "image": "/visualnovellist/covers/vn/hyperdevotion-noire.jpg",
+      "score": 6.5,
+      "progressType": "endings",
+      "endings": [ 2, 2 ],
+      "achievements": [ 51, 51 ],
+      "completion": null,
+      "playtime": 99,
+      "start": "2022-9-8",
+      "finish": "2022-9-29",
+      "tags": [
+        "Owned",
+        "Please fire Secretary",
+        "Poona best special"
+      ],
+      "notes": null
     }
   ],
 
