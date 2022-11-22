@@ -51,9 +51,9 @@
       "image": "/visualnovellist/covers/vn/danganronpa-2.jpg",//"https://s.vndb.org/cv/20/18120.jpg",
       "score": null,
       "progressType": "endings",
-      "achievements": [ 17, 47 ],
+      "achievements": [ 18, 47 ],
       "completion": null,
-      "playtime": 35, // ~5h from card idling
+      "playtime": 40, // ~5h from card idling
       "start": "2022-6-6",
       "finish": null,
       "tags": [
