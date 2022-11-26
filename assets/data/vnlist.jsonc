@@ -49,13 +49,14 @@
       "title_en": "Danganronpa 2: Goodbye Despair",
       "url": "https://vndb.org/v7679",
       "image": "/visualnovellist/covers/vn/danganronpa-2.jpg",//"https://s.vndb.org/cv/20/18120.jpg",
-      "score": null,
+      "score": 9.5,
       "progressType": "endings",
-      "achievements": [ 20, 47 ],
+      "endings": [ 1, null ],
+      "achievements": [ 23, 47 ],
       "completion": null,
-      "playtime": 44, // ~5h from card idling
+      "playtime": 51, // ~5h from card idling
       "start": "2022-6-6",
-      "finish": null,
+      "finish": null, // Ending complete on 2022-11-26
       "tags": [
         "Owned",
         "Cried",
