@@ -52,9 +52,9 @@
       "score": 9.5,
       "progressType": "endings",
       "endings": [ 1, null ],
-      "achievements": [ 23, 47 ],
+      "achievements": [ 30, 47 ],
       "completion": null,
-      "playtime": 51, // ~5h from card idling
+      "playtime": 54, // ~5h from card idling
       "start": "2022-6-6",
       "finish": null, // Ending complete on 2022-11-26
       "tags": [
