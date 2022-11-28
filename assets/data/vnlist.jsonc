@@ -51,10 +51,9 @@
       "image": "/visualnovellist/covers/vn/danganronpa-2.jpg",//"https://s.vndb.org/cv/20/18120.jpg",
       "score": 9.5,
       "progressType": "endings",
-      "endings": [ 1, null ],
-      "achievements": [ 30, 47 ],
-      "completion": null,
-      "playtime": 54, // ~5h from card idling
+      "endings": [ 2, 2 ], // 2nd ending treated as finishing IF Novel
+      "achievements": [ 40, 47 ],
+      "playtime": 60, // ~5h from card idling, 2.5 hours from IF Novel
       "start": "2022-6-6",
       "finish": null, // Ending complete on 2022-11-26
       "tags": [
@@ -749,7 +748,7 @@
       "progressType": "endings",
       "progressType2": "sidestories",
       "endings": [ 2, 2 ],
-      "sidestories": [ 5, 5 ],
+      "sidestories": [ 5, 5 ], // What metric is this even measuring?? School Mode has 14 character endings... and there's also an ending with failing to build the final task.
       "achievements": [ 38, 38 ],
       "playtime": 46,
       "start": "2016-12-29",
