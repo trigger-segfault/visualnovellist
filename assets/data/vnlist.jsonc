@@ -52,10 +52,10 @@
       "score": 9.5,
       "progressType": "endings",
       "endings": [ 2, 2 ], // 2nd ending treated as finishing IF Novel
-      "achievements": [ 40, 47 ],
-      "playtime": 60, // ~5h from card idling, 2.5 hours from IF Novel
+      "achievements": [ 44, 47 ],
+      "playtime": 69, // ~5h from card idling, 2.5 hours from IF Novel
       "start": "2022-6-6",
-      "finish": null, // Ending complete on 2022-11-26
+      "finish": "2022-11-30", // Ending complete on 2022-11-26
       "tags": [
         "Owned",
         "Cried",
