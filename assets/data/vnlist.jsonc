@@ -44,6 +44,12 @@
   },
 
   "playing": [
+  ],
+
+  "queued": [
+  ],
+
+  "completed": [
     {
       "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
       "title_en": "Danganronpa 2: Goodbye Despair",
@@ -62,13 +68,8 @@
         "Detective"
       ],
       "notes": null
-    }
-  ],
-
-  "queued": [
-  ],
-
-  "completed": [{
+    },
+    {
       "title": "Ao no Kanata no Four Rhythm",
       "url": "https://vndb.org/v12849",
       "image": "/visualnovellist/covers/vn/aokana.jpg",
