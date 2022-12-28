@@ -51,20 +51,24 @@
 
   "completed": [
     {
-      "title": "fault - StP - LIGHTKRAVTE",
+      "title": "Fault StP Lightkravte",
       "url": "https://vndb.org/v36650",
       "image": "/visualnovellist/covers/vn/fault-stp-lightkravte.jpg",
       "score": 8.5,
       "progressType": "endings",
       "endings": [ 1, 1 ],
       "achievements": [ 10, 10 ],
-      "playtime": 7.5,
+      "playtime": 7.30,
       "start": "2022-12-26",
       "finish": "2022-12-27",
       "tags": [
         "Owned"
       ],
-      "notes": null
+      "notes": [
+        "This may be a side story of a side story, but it's still, without a doubt, fault with its ever-abundant worldbuilding.",
+        "The new character animation system breaths so much extra life into the story, and it's truly used to the fullest extent.",
+        "This all just makes me so much more excited for when Side: Below and Silence the Pendant finally release."
+      ]
     },
     {
       "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
