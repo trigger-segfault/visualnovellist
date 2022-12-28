@@ -51,6 +51,22 @@
 
   "completed": [
     {
+      "title": "fault - StP - LIGHTKRAVTE",
+      "url": "https://vndb.org/v36650",
+      "image": "/visualnovellist/covers/vn/fault-stp-lightkravte.jpg",
+      "score": 8.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 10, 10 ],
+      "playtime": 7.5,
+      "start": "2022-12-26",
+      "finish": "2022-12-27",
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
       "title": "Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen",
       "title_en": "Danganronpa 2: Goodbye Despair",
       "url": "https://vndb.org/v7679",
