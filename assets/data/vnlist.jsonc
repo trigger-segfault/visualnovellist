@@ -51,13 +51,14 @@
       "image": "/visualnovellist/covers/vn/steins-gate-linear.jpg",
       "score": null,
       "progressType": "routes",
-      "routes": [ 8, null ],
-      "achievements": [ 25, 35 ],
-      "playtime": 21,
+      "routes": [ 9, 10 ],
+      "achievements": [ 28, 35 ],
+      "playtime": 26,
       "start": "2022-12-28",
       "finish": null,
       "tags": [
-        "Owned"
+        "Owned",
+        "Cried"
       ],
       "notes": null
     }
