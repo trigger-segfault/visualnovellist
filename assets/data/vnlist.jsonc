@@ -1919,6 +1919,24 @@
         "JRPG"
       ],
       "notes": null
+    },
+    {
+      "title": "Robotics;Notes",
+      "url": "https://vndb.org/v5883",
+      "image": "/visualnovellist/covers/vn/robotics-notes.jpg",
+      "score": null,
+      "progressType": null,
+      "progressType2": null,
+      "routes": null,
+      "endings": null,
+      "achievements": [ null, 50 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
     }
   ]
 }
