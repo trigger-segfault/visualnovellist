@@ -1288,6 +1288,27 @@
 
   "onhold": [
     {
+      "title": "Blue Revolver",
+      "url": "https://store.steampowered.com/app/439490/BLUE_REVOLVER/",
+      "image": "/visualnovellist/covers/vn/blue-revolver.jpg",
+      "score": 8,
+      "progressType": "endings",
+      "endings": [ null, 2 ], // Mae ending, Val ending
+      "achievements": [ 16, 40 ],
+      "playtime": 8.30,
+      "start": "2022-5-18",
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Not a visual novel",
+        "Bullet Hell"
+      ],
+      "notes": [
+        "The soundtrack absolutely slaps, and Mae is a top-tier waifu!",
+        "This is somewhat forgiving for a bullet hell, especially with its normal mode, but I still don't ever see myself completing this outside of free play mode (infinite retries)."
+      ]
+    },
+    {
       "title": "Little Busters!",
       "url": "https://vndb.org/v5",
       "image": "/visualnovellist/covers/vn/little-busters.jpg",//"https://s.vndb.org/cv/67/24267.jpg",
