@@ -887,7 +887,7 @@
       ]
     },
     {
-      "title": "Fault Milestone 2 Jou (Side: Above)",
+      "title": "Fault Milestone Two (Side: Above)",
       "title_en": "fault - milestone two side:above",
       "url": "https://vndb.org/v15252",
       "image": "/visualnovellist/covers/vn/fault-milestone-2-side-above.jpg",//"https://s.vndb.org/cv/62/33762.jpg",
@@ -1336,6 +1336,21 @@
   ],
 
   "planning": [
+    {
+      "title": "Fault Milestone Two (Side: Below)",
+      "title_en": "fault - milestone two side:below",
+      "url": "https://vndb.org/v22055",
+      "image": "/visualnovellist/covers/vn/fault-milestone-2-side-below.jpg",
+      "score": null,
+      "progressType": "endings",
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
     {
       "title": "Megadimension Neptunia VII",
       "url": "https://store.steampowered.com/app/460120/Megadimension_Neptunia_VII/",
