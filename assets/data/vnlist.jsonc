@@ -69,6 +69,34 @@
 
   "completed": [
     {
+      "title": "Rabi-Ribi",
+      "url": "https://store.steampowered.com/app/400910/RabiRibi/",
+      "image": "/visualnovellist/covers/vn/rabi-ribi.jpg",
+      "score": 9.5,
+      "progressType": "endings",
+      "endings": [ 3, 3 ], // Main game chapters, Post game chapters, Is the Order a DLC? chapters
+      "achievements": [ 112, 220 ],
+      "completion": 100, // All chapters, CG, town members, buffs/debuffs, eggs, items, map squares.
+      "playtime": 53,
+      "start": "2023-1-5",
+      "finish": "2023-1-12",
+      "tags": [
+        "Owned",
+        "Not a visual novel",
+        "Metroidvania",
+        "Bullet Hell"
+      ],
+      "notes": [
+        "This is no longer a VN list, but a weeb game list! Rabi-Ribi is just too good to not include.",
+        "I've got a huge soft spot for Metroidvanias, even if I'm terrible at the 2D variety.",
+        "Thankfully the filthy casual difficulty spared me from suffering through the bullet hell aspects.",
+        "The gameplay is really fluid and the boss fights are plentiful, but short and sweet.",
+        "But the best part of this game is its incredible OST.",
+        "It's playful, exciting, epic, and filled with bangers galore —and then there's even an orchestral soundtrack DLC that makes me feel like I'm playing Super Mario Galaxy!",
+        "This grew on me a lot more than I was expecting it too."
+      ]
+    },
+    {
       "title": "Fault StP Lightkravte",
       "url": "https://vndb.org/v36650",
       "image": "/visualnovellist/covers/vn/fault-stp-lightkravte.jpg",
