@@ -44,30 +44,34 @@
   },
 
   "playing": [
-    {
-      "title": "Steins;Gate Senkei Kousoku no Phenogram",
-      "title_en": "STEINS;GATE: Linear Bounded Phenogram",
-      "url": "https://vndb.org/v11660",
-      "image": "/visualnovellist/covers/vn/steins-gate-linear.jpg",
-      "score": null,
-      "progressType": "routes",
-      "routes": [ 10, 11 ],
-      "achievements": [ 30, 35 ],
-      "playtime": 31,
-      "start": "2022-12-28",
-      "finish": null,
-      "tags": [
-        "Owned",
-        "Cried"
-      ],
-      "notes": null
-    }
   ],
 
   "queued": [
   ],
 
   "completed": [
+    {
+      "title": "Steins;Gate Senkei Kousoku no Phenogram",
+      "title_en": "STEINS;GATE: Linear Bounded Phenogram",
+      "url": "https://vndb.org/v11660",
+      "image": "/visualnovellist/covers/vn/steins-gate-linear.jpg",
+      "score": 7.5,
+      "progressType": "routes",
+      "routes": [ 11, 11 ],
+      "achievements": [ 35, 35 ],
+      "completion": 100,
+      "playtime": 34,
+      "start": "2022-12-28",
+      "finish": "2023-1-17",
+      "tags": [
+        "Owned",
+        "Cried"
+      ],
+      "notes": [
+        "This is basically just a series of unfortunate, wacky, and uncharacteristic worldlines.",
+        "It's a bag of mixed routes, where some are fantastic while others don't really add any value in existing."
+      ]
+    },
     {
       "title": "Rabi-Ribi",
       "url": "https://store.steampowered.com/app/400910/RabiRibi/",
