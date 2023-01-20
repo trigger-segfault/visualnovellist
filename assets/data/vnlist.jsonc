@@ -44,6 +44,23 @@
   },
 
   "playing": [
+    {
+      "title": "Shizuku no Oto",
+      "title_en": "Sound of Drop -fall into poison-",
+      "url": "https://vndb.org/v15940",
+      "image": "/visualnovellist/covers/vn/shizuku-no-oto.jpg",//"https://s.vndb.org/cv/90/21790.jpg",
+      "score": null,
+      "progressType": "endings",
+      "endings": [ 7, 31 ],
+      "achievements": [ 6, 21 ],
+      "playtime": null,
+      "start": "2023-1-19",
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    }
   ],
 
   "queued": [
@@ -1500,24 +1517,6 @@
       "routes": null,
       "endings": null,
       "achievements": [ null, 9 ],
-      "playtime": null,
-      "start": null,
-      "finish": null,
-      "tags": [
-        "Owned"
-      ],
-      "notes": null
-    },
-    {
-      "title": "Shizuku no Oto",
-      "title_en": "Sound of Drop -fall into poison-",
-      "url": "https://vndb.org/v15940",
-      "image": "/visualnovellist/covers/vn/shizuku-no-oto.jpg",//"https://s.vndb.org/cv/90/21790.jpg",
-      "score": null,
-      "progressType": null,
-      "routes": null,
-      "endings": null,
-      "achievements": [ null, 21 ],
       "playtime": null,
       "start": null,
       "finish": null,
