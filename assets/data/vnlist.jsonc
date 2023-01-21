@@ -44,6 +44,12 @@
   },
 
   "playing": [
+  ],
+
+  "queued": [
+  ],
+
+  "completed": [
     {
       "title": "Shizuku no Oto",
       "title_en": "Sound of Drop -fall into poison-",
@@ -52,23 +58,21 @@
       "score": 7,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 3, 4 ],  // True ends
-      "endings": [ 27, 31 ],
-      "achievements": [ 15, 21 ],
-      "playtime": 14, // ~2h from card idling
+      "routes": [ 3, 3 ],  // True ends (A + B are one route)
+      "endings": [ 31, 31 ],
+      "achievements": [ 21, 21 ],
+      "playtime": 16, // ~2h from card idling, ~1h from controller configuration
       "start": "2023-1-19",
-      "finish": null,
+      "finish": "2023-1-21",
       "tags": [
         "Owned"
       ],
-      "notes": null
-    }
-  ],
-
-  "queued": [
-  ],
-
-  "completed": [
+      "notes": [
+        "I was expecting a more complex choice system, but mostly it boiled down to \"pick your poison\".",
+        "The first route was very bland, but the other two routes really made up for that.",
+        "The OST isn't anything special, but the maid menu track is really beautiful."
+      ]
+    },
     {
       "title": "Steins;Gate Senkei Kousoku no Phenogram",
       "title_en": "STEINS;GATE: Linear Bounded Phenogram",
