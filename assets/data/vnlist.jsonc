@@ -49,11 +49,13 @@
       "title_en": "Sound of Drop -fall into poison-",
       "url": "https://vndb.org/v15940",
       "image": "/visualnovellist/covers/vn/shizuku-no-oto.jpg",//"https://s.vndb.org/cv/90/21790.jpg",
-      "score": null,
-      "progressType": "endings",
-      "endings": [ 7, 31 ],
-      "achievements": [ 6, 21 ],
-      "playtime": null,
+      "score": 7,
+      "progressType": "routes",
+      "progressType2": "endings",
+      "routes": [ 3, 4 ],  // True ends
+      "endings": [ 27, 31 ],
+      "achievements": [ 15, 21 ],
+      "playtime": 14, // ~2h from card idling
       "start": "2023-1-19",
       "finish": null,
       "tags": [
