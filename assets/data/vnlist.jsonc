@@ -52,17 +52,16 @@
       "progressType": "routes",
       "progressType2": "endings",
       "routes": [ null, null ],
-      "endings": [ null, null ],
+      "endings": [ 1, null ], // Common bad end
       "achievements": [ 1, 27 ],
-      "playtime": 3,
+      "playtime": 14,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
         "Owned"
       ],
       "notes": [
-        "The sprites scare me more than Clannad and the voice acting quality is the total opposite of Clannad.",
-        "Shelved for a day when I've run out of backlog."
+        "VFX configuration is mandatory because of how poorly the voice volume is balanced."
       ]
     }
   ],
