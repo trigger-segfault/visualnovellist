@@ -51,10 +51,10 @@
       "score": null,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ null, null ],
-      "endings": [ 1, null ], // Common bad end
-      "achievements": [ 1, 27 ],
-      "playtime": 14,
+      "routes": [ 1, null ], // Haruka
+      "endings": [ 3, null ], // Common bad, Haruka bad+good
+      "achievements": [ 2, 27 ],
+      "playtime": 19,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
