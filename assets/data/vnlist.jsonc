@@ -51,10 +51,13 @@
       "score": null,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 1, null ], // Haruka
-      "endings": [ 3, null ], // Common bad, Haruka bad+good
-      "achievements": [ 2, 27 ],
-      "playtime": 19,
+      "routes": [ 2, null ], // Haruka, Mio
+      "endings": [ 8, null ],
+      // #1 Common: Nothing to do
+      // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
+      // #6-8 Mio: True, Mio carried away, Midori found
+      "achievements": [ 4, 27 ],
+      "playtime": 27,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
