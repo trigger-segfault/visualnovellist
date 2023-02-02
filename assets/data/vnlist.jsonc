@@ -51,17 +51,19 @@
       "score": null,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 2, null ], // Haruka, Mio
-      "endings": [ 8, null ],
+      "routes": [ 3, null ], // Haruka, Mio
+      "endings": [ 11, null ],
       // #1 Common: Nothing to do
-      // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
+      // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa (excludes non-unique common ends)
       // #6-8 Mio: True, Mio carried away, Midori found
-      "achievements": [ 4, 27 ],
-      "playtime": 27,
+      // #9-11 Kud: True, Test failed common, Executed
+      "achievements": [ 5, 27 ],
+      "playtime": 33,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
-        "Owned"
+        "Owned",
+        "Minigames"
       ],
       "notes": [
         "VFX configuration is mandatory because of how poorly the voice volume is balanced."
