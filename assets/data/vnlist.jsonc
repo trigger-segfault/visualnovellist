@@ -51,17 +51,17 @@
       "score": null,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 6, null ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin
-      "endings": [ 19, null ],
+      "routes": [ 6, null ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin (and Rin2)
+      "endings": [ 21, null ],
       // #1 Common: Nothing to do
       // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa (excludes non-unique common ends)
       // #6-8 Mio: True, Mio carried away, Midori found
       // #9-11 Kud: True, Test failed common, Executed
       // #12-14 Komari: True, A dead end, Back to zero
       // #15-17 Kurugaya: True, Problem solved common, Broadcast room
-      // #18-19 Rin: True, Haven't gotten any messages common
-      "achievements": [ 8, 27 ],
-      "playtime": 47,
+      // #18-21 Rin: True1, True2, No messages common, Called game
+      "achievements": [ 9, 27 ],
+      "playtime": 52,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
