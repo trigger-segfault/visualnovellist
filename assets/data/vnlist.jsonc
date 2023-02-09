@@ -51,8 +51,8 @@
       "score": null,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 6, null ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin (and Rin2)
-      "endings": [ 21, null ],
+      "routes": [ 7, null ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin (and Rin2), Refrain
+      "endings": [ 25, null ],
       // #1 Common: Nothing to do
       // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa (excludes non-unique common ends)
       // #6-8 Mio: True, Mio carried away, Midori found
@@ -60,13 +60,15 @@
       // #12-14 Komari: True, A dead end, Back to zero
       // #15-17 Kurugaya: True, Problem solved common, Broadcast room
       // #18-21 Rin: True1, True2, No messages common, Called game
-      "achievements": [ 9, 27 ],
-      "playtime": 52,
+      // #22-25 Refrain: True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
+      "achievements": [ 10, 27 ],
+      "playtime": 58,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
         "Owned",
-        "Minigames"
+        "Minigames",
+        "Cried"
       ],
       "notes": [
         "VFX configuration is mandatory because of how poorly the voice volume is balanced."
