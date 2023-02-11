@@ -414,10 +414,17 @@
       "score": 9,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 6, 6 ],
-      "endings": [ 19, 19 ],
+      "routes": [ 6, 6 ], // Main story, +5 REturn routes
+      "endings": [ 19, 19 ], // Main story, +18 REturn ends
       "achievements": [ 47, 52 ],
-      "playtime": 28,
+      "playtime": 29,
+      "replays": [
+        {
+          "start": "2023-2-10",
+          "finish": "2023-2-11",
+          "playtime": 14
+        }
+      ],
       "eroge": true,
       "eroge_score": 0.5,
       "start": "2019-3-23",
