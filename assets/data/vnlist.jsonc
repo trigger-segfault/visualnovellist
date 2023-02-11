@@ -73,10 +73,7 @@
       "notes": [
         "VFX configuration is mandatory because of how poorly the voice volume is balanced."
       ]
-    }
-  ],
-
-  "queued": [
+    },
     {
       "title": "Sunrider 4: The Captain's Return",
       "url": "https://vndb.org/v25544",
@@ -88,13 +85,16 @@
       "endings": null,
       "achievements": null,
       "playtime": null,
-      "start": null,
+      "start": "2023-2-9", // Started proper on 2023-2-11 after replaying the prequels
       "finish": null,
       "tags": [
-        "Wishlist"
+        "Owned"
       ],
       "notes": null
     }
+  ],
+
+  "queued": [
   ],
 
   "completed": [
