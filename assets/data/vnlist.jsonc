@@ -83,12 +83,14 @@
       "progressType2": null,
       "routes": null,
       "endings": null,
-      "achievements": null,
-      "playtime": null,
+      "achievements": [ null, 33 ],
+      "playtime": 6,
       "start": "2023-2-9", // Started proper on 2023-2-11 after replaying the prequels
       "finish": null,
       "tags": [
-        "Owned"
+        "Owned",
+        "SRPG",
+        "English VA"
       ],
       "notes": null
     }
@@ -434,6 +436,7 @@
         "Cried",
         "Owned",
         "SRPG",
+        "English VA",
         "Great OST"
       ],
       "notes": [
