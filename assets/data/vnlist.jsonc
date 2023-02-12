@@ -48,21 +48,24 @@
       "title": "Little Busters!",
       "url": "https://vndb.org/v5",
       "image": "/visualnovellist/covers/vn/little-busters.jpg",//"https://s.vndb.org/cv/67/24267.jpg",
-      "score": null,
+      "score": 8.5,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 7, null ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin (and Rin2), Refrain
-      "endings": [ 25, null ],
+      "routes": [ 8, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata
+      "endings": [ 33, null ],
       // #1 Common: Nothing to do
-      // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa (excludes non-unique common ends)
+      // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
       // #6-8 Mio: True, Mio carried away, Midori found
-      // #9-11 Kud: True, Test failed common, Executed
-      // #12-14 Komari: True, A dead end, Back to zero
-      // #15-17 Kurugaya: True, Problem solved common, Broadcast room
-      // #18-21 Rin: True1, True2, No messages common, Called game
-      // #22-25 Refrain: True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
-      "achievements": [ 10, 27 ],
-      "playtime": 58,
+      // #9-14 Kud: True, Alternate, Test failed common, Test failed with Haruka, Executed, Muscle sensation
+      // #15-17 Komari: True, A dead end, Back to zero
+      // #18-21 Kurugaya: Good, True, Problem solved common, Broadcast room
+      // #22-25 Rin: Normal, Continued, No messages common, Called game
+      // #26-30 Refrain: True, Rin True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
+      // #31-33 Kanata: True, Alternate, Lost my chance
+      // # Sasami:
+      // # Saya:
+      "achievements": [ 16, 27 ],
+      "playtime": 67,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
@@ -71,7 +74,8 @@
         "Cried"
       ],
       "notes": [
-        "VFX configuration is mandatory because of how poorly the voice volume is balanced."
+        "VFX configuration is mandatory because of how poorly the voice volume is balanced.",
+        "This is even more ambitious than Clannad in some aspects, but the heroine routes fall flat in comparison."
       ]
     },
     {
