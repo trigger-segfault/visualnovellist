@@ -51,8 +51,8 @@
       "score": 8.5,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 8, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata
-      "endings": [ 33, null ],
+      "routes": [ 9, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata, Sasami
+      "endings": [ 36, null ],
       // #1 Common: Nothing to do
       // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
       // #6-8 Mio: True, Mio carried away, Midori found
@@ -62,10 +62,11 @@
       // #22-25 Rin: Normal, Continued, No messages common, Called game
       // #26-30 Refrain: True, Rin True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
       // #31-33 Kanata: True, Alternate, Lost my chance
-      // # Sasami:
+      // #34-36 Sasami: True, Alternate, Regret
       // # Saya:
-      "achievements": [ 16, 27 ],
-      "playtime": 67,
+      "achievements": [ 19, 27 ],
+      "completion": 90, // CG: 87%, Music: 87%, Encyclopedia: 95%
+      "playtime": 74,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
