@@ -48,11 +48,11 @@
       "title": "Little Busters!",
       "url": "https://vndb.org/v5",
       "image": "/visualnovellist/covers/vn/little-busters.jpg",//"https://s.vndb.org/cv/67/24267.jpg",
-      "score": 8.5,
+      "score": 9,
       "progressType": "routes",
       "progressType2": "endings",
-      "routes": [ 9, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata, Sasami
-      "endings": [ 36, null ],
+      "routes": [ 10, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata, Sasami, Saya
+      "endings": [ 39, null ],
       // #1 Common: Nothing to do
       // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
       // #6-8 Mio: True, Mio carried away, Midori found
@@ -63,16 +63,17 @@
       // #26-30 Refrain: True, Rin True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
       // #31-33 Kanata: True, Alternate, Lost my chance
       // #34-36 Sasami: True, Alternate, Regret
-      // # Saya:
+      // #37-39 Saya: True, Base, Transferred common
       "achievements": [ 19, 27 ],
-      "completion": 90, // CG: 87%, Music: 87%, Encyclopedia: 95%
-      "playtime": 74,
+      "completion": 98, // CG: 99%, Music: 100%, Encyclopedia: 96%
+      "playtime": 82,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
         "Owned",
         "Minigames",
-        "Cried"
+        "Cried",
+        "Saya supreme waifu"
       ],
       "notes": [
         "VFX configuration is mandatory because of how poorly the voice volume is balanced.",
