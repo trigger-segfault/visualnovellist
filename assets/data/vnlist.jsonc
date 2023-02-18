@@ -52,7 +52,7 @@
       "progressType": "routes",
       "progressType2": "endings",
       "routes": [ 10, 10 ], // Haruka, Mio, Kud, Komari, Kurugaya, Rin, Refrain, Kanata, Sasami, Saya
-      "endings": [ 39, null ],
+      "endings": [ 41, 41 ],
       // #1 Common: Nothing to do
       // #2-5 Haruka: True, Haruka crying common, Futaki noticed, The Disappearance of Haruka Saigusa
       // #6-8 Mio: True, Mio carried away, Midori found
@@ -63,21 +63,25 @@
       // #26-30 Refrain: True, Rin True, Dead, Give Rin happiness, Flash of hot wind (Dead is a combination of very similar ends)
       // #31-33 Kanata: True, Alternate, Lost my chance
       // #34-36 Sasami: True, Alternate, Regret
-      // #37-39 Saya: True, Base, Transferred common
-      "achievements": [ 19, 27 ],
-      "completion": 98, // CG: 99%, Music: 100%, Encyclopedia: 96%
-      "playtime": 82,
+      // #37-41 Saya: True, Base, Transferred common, School revolution, Game end
+      "achievements": [ 26, 27 ],
+      "completion": 99, // CG: 100%, Music: 100%, Encyclopedia: 99% (missing Kouya dofu)
+      "playtime": 89,
       "start": "2019-3-15", // Resumed 2023-1-23
       "finish": null,
       "tags": [
         "Owned",
         "Minigames",
+        "RNG",
         "Cried",
         "Saya supreme waifu"
       ],
       "notes": [
         "VFX configuration is mandatory because of how poorly the voice volume is balanced.",
-        "This is even more ambitious than Clannad in some aspects, but the heroine routes fall flat in comparison."
+        "This is even more ambitious than Clannad in many aspects,",
+        "but the heroine routes fall flat in comparison (save for Saya and Sasami).",
+        "Little Busters is like a theme park with how much there is to do,",
+        "just make sure to actually play the battle rankings and batting practice sessions during your route runs instead of rushing through like I did."
       ]
     },
     {
