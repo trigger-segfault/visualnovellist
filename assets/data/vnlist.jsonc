@@ -53,8 +53,8 @@
       "progressType2": null,
       "routes": null,
       "endings": null,
-      "achievements": [ null, 33 ],
-      "playtime": 6,
+      "achievements": [ 4, 33 ],
+      "playtime": 16,
       "start": "2023-2-9", // Started proper on 2023-2-11 after replaying the prequels
       "finish": null,
       "tags": [
