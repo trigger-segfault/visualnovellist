@@ -44,31 +44,31 @@
   },
 
   "playing": [
-    {
-      "title": "Sunrider 4: The Captain's Return",
-      "url": "https://vndb.org/v25544",
-      "image": "/visualnovellist/covers/vn/sunrider-4.jpg",
-      "score": null,
-      "progressType": null,
-      "progressType2": null,
-      "routes": null,
-      "endings": null,
-      "achievements": [ 4, 33 ],
-      "playtime": 16,
-      "start": "2023-2-9", // Started proper on 2023-2-11 after replaying the prequels
-      "finish": null,
-      "tags": [
-        "Owned",
-        "SRPG"
-      ],
-      "notes": null
-    }
   ],
 
   "queued": [
   ],
 
   "completed": [
+    {
+      "title": "Sunrider 4: The Captain's Return",
+      "url": "https://store.steampowered.com/app/2251620/Sunrider_4_The_Captains_Return/", // https://vndb.org/v25544
+      "image": "/visualnovellist/covers/vn/sunrider-4.jpg",
+      "score": 8.5,
+      "progressType": "endings",
+      "progressType2": "routes",
+      "endings": [ 2, 2 ],
+      "routes": [ 7, 7 ],
+      "achievements": [ 33, 33 ],
+      "playtime": 40,
+      "start": "2023-2-9", // Started proper on 2023-2-11 after replaying the prequels
+      "finish": "2023-10-20",
+      "tags": [
+        "Owned",
+        "SRPG"
+      ],
+      "notes": null
+    },
     {
       "title": "Little Busters!",
       "url": "https://vndb.org/v5",
