@@ -51,6 +51,26 @@
 
   "completed": [
     {
+      "title": "Karakara",
+      "title_en": "KARAKARA",
+      "url": "https://vndb.org/v18974",
+      "image": "/visualnovellist/covers/vn/karakara.jpg",//"https://s.vndb.org/cv/07/29807.jpg",
+      "score": 6.5,
+      "progressType": "endings",
+      "endings": [ 1, 1 ],
+      "achievements": [ 7, 7 ],
+      "playtime": 4,
+      "start": "2023-11-1",
+      "finish": "2023-11-2",
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "Cute and ahort, but the story isn't anything more than average.",
+        "The world building was interesting, but more often than not it came off as silly instead of serious."
+      ]
+    },
+    {
       "title": "Sunrider 4: The Captain's Return",
       "url": "https://store.steampowered.com/app/2251620/Sunrider_4_The_Captains_Return/", // https://vndb.org/v25544
       "image": "/visualnovellist/covers/vn/sunrider-4.jpg",
@@ -1506,24 +1526,6 @@
       "progressType": null,
       "achievements": [ null, 38 ],
       "completion": null,
-      "playtime": null,
-      "start": null,
-      "finish": null,
-      "tags": [
-        "Owned"
-      ],
-      "notes": null
-    },
-    {
-      "title": "Karakara",
-      "title_en": "KARAKARA",
-      "url": "https://vndb.org/v18974",
-      "image": "/visualnovellist/covers/vn/karakara.jpg",//"https://s.vndb.org/cv/07/29807.jpg",
-      "score": null,
-      "progressType": "routes",
-      "routes": null,
-      "endings": null,
-      "achievements": [ null, 7 ],
       "playtime": null,
       "start": null,
       "finish": null,
