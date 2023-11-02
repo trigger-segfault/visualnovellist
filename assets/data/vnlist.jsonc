@@ -59,7 +59,9 @@
       "progressType": "endings",
       "endings": [ 1, 1 ],
       "achievements": [ 7, 7 ],
-      "playtime": 4,
+      "playtime": 4, // Ignores 4.6 hours of Steam card idling
+      "eroge": true,
+      "eroge_score": 0,
       "start": "2023-11-1",
       "finish": "2023-11-2",
       "tags": [
