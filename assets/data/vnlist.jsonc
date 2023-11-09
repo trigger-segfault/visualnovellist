@@ -51,6 +51,28 @@
 
   "completed": [
     {
+      "title": "Chaos;Head Noah",
+      "url": "https://vndb.org/v22505",
+      "image": "/visualnovellist/covers/vn/chaos-head-noah.jpg",
+      "score": 7.5,
+      "progressType": "endings",
+      "endings": [ 10, 10 ], // Includes one dead end
+      "achievements": [ 34, 34 ],
+      "completion": 100, // All CG, Music, Movies, Tips
+      "playtime": 48,
+      "start": "2023-11-2",
+      "finish": "2023-11-8",
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "The gore warning applies less to the CG and more to how the VN describes gore using text and audio.",
+        "It got so bad near the end of the standard route that I just started tuning things out, which killed my enjoyment.",
+        "That said, I did enjoy the rest of the routes and endings.",
+        "The delusion choice system is fantastic and makes it so everyone's first experience with the story is wildly different."
+      ]
+    },
+    {
       "title": "Karakara",
       "title_en": "KARAKARA",
       "url": "https://vndb.org/v18974",
@@ -68,7 +90,7 @@
         "Owned"
       ],
       "notes": [
-        "Cute and ahort, but the story isn't anything more than average.",
+        "Cute and adorable, but the story isn't anything more than average.",
         "The world building was interesting, but more often than not it came off as silly instead of serious."
       ]
     },
