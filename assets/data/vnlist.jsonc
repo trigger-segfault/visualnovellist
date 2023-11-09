@@ -1465,6 +1465,22 @@
 
   "planning": [
     {
+      "title": "Gal Gun: Double Peace",
+      "url": "https://store.steampowered.com/app/511740/GalGun_Double_Peace/",
+      "image": "/visualnovellist/covers/vn/gal-gun-double-peace.jpg",
+      "score": null,
+      "progressType": null,
+      "achievements": [ null, 39 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Not a visual novel"
+      ],
+      "notes": null
+    },
+    {
       "title": "Zero Escape: Zero Time Dilemma",
       "url": "https://store.steampowered.com/app/311240/Zero_Escape_Zero_Time_Dilemma/",
       "image": "/visualnovellist/covers/vn/zero-time-dilemma.jpg",
