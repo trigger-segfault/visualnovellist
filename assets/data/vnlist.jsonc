@@ -1465,6 +1465,21 @@
 
   "planning": [
     {
+      "title": "Chaos;Child",
+      "url": "https://vndb.org/v14018",
+      "image": "/visualnovellist/covers/vn/chaos-child.jpg",
+      "score": null,
+      "progressType": "endings",
+      "achievements": [ null, 34 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
       "title": "YOU and ME and HER: A Love Story",
       "url": "https://vndb.org/v7738",
       "image": "/visualnovellist/covers/vn/you-and-me-and-her.jpg",
