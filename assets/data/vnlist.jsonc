@@ -1465,6 +1465,21 @@
 
   "planning": [
     {
+      "title": "Zero Escape: Zero Time Dilemma",
+      "url": "https://store.steampowered.com/app/311240/Zero_Escape_Zero_Time_Dilemma/",
+      "image": "/visualnovellist/covers/vn/zero-time-dilemma.jpg",
+      "score": null,
+      "progressType": null,
+      "achievements": [ null, 33 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
       "title": "Zero Escape: The Nonary Games",
       "url": "https://vndb.org/v3112",
       "image": "/visualnovellist/covers/vn/the-nonary-games.jpg",
@@ -1502,7 +1517,7 @@
       "image": "/visualnovellist/covers/vn/steins-gate-darlings-embrace.jpg",
       "score": null,
       "progressType": "endings",
-      "achievements": [ null, 34 ],
+      "achievements": [ null, 50 ],
       "playtime": null,
       "start": null,
       "finish": null,
