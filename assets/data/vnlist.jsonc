@@ -1465,6 +1465,21 @@
 
   "planning": [
     {
+      "title": "Steins;Gate: My Darling's Embrace",
+      "url": "https://vndb.org/v6618",
+      "image": "/visualnovellist/covers/vn/steins-gate-darlings-embrace.jpg",
+      "score": null,
+      "progressType": "endings",
+      "achievements": [ null, 34 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
       "title": "Chaos;Child",
       "url": "https://vndb.org/v14018",
       "image": "/visualnovellist/covers/vn/chaos-child.jpg",
