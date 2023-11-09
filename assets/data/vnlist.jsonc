@@ -1465,6 +1465,23 @@
 
   "planning": [
     {
+      "title": "Karakara 2",
+      "url": "https://vndb.org/v20980",
+      "image": "/visualnovellist/covers/vn/karakara-2.jpg",
+      "score": null,
+      "progressType": "endings",
+      "endings": [ null, 1 ],
+      "playtime": null,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Wishlist"
+      ],
+      "notes": null
+    },
+    {
       "title": "Fault Milestone Two (Side: Below)",
       "title_en": "fault - milestone two side:below",
       "url": "https://vndb.org/v22055",
@@ -1850,24 +1867,6 @@
       ],
       "notes": null
     },
-   /* {  // Change of plans... let's not
-      "title": "euphoria",
-      "url": "https://vndb.org/v6540",
-      "image": "/visualnovellist/covers/vn/euphoria.jpg",
-      "score": null,
-      "progressType": null,
-      "routes": null,
-      "endings": null,
-      "achievements": null,
-      "playtime": null,
-      "start": null,
-      "finish": null,
-      "tags": [
-        "H-Scenes",
-        "Wishlist"
-      ],
-      "notes": null
-    }, */
     {
       "title": "Doki Doki! New Eyes",
       "url": "https://vndb.org/v23036",
