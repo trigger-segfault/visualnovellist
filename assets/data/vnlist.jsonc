@@ -1465,6 +1465,23 @@
 
   "planning": [
     {
+      "title": "First Snow",
+      "url": "https://vndb.org/v28063",
+      "image": "/visualnovellist/covers/vn/first-snow.jpg",
+      "score": null,
+      "progressType": "endings",
+      "endings": [ null, 1 ],
+      "achievements": [ null, 10 ],
+      "playtime": null,
+      "eroge": true,
+      "eroge_score": 0,
+      "start": null,
+      "finish": null,
+      "tags": [
+      ],
+      "notes": null
+    },
+    {
       "title": "Steins;Gate: My Darling's Embrace",
       "url": "https://vndb.org/v6618",
       "image": "/visualnovellist/covers/vn/steins-gate-darlings-embrace.jpg",
