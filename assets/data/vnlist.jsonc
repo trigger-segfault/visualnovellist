@@ -1465,6 +1465,22 @@
 
   "planning": [
     {
+      "title": "Gal Gun 2",
+      "url": "https://store.steampowered.com/app/851890/GalGun_2/",
+      "image": "/visualnovellist/covers/vn/gal-gun-2.jpg",
+      "score": null,
+      "progressType": null,
+      "achievements": [ null, 37 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned",
+        "Not a visual novel"
+      ],
+      "notes": null
+    },
+    {
       "title": "Gal Gun: Double Peace",
       "url": "https://store.steampowered.com/app/511740/GalGun_Double_Peace/",
       "image": "/visualnovellist/covers/vn/gal-gun-double-peace.jpg",
