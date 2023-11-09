@@ -1465,6 +1465,21 @@
 
   "planning": [
     {
+      "title": "Zero Escape: The Nonary Games",
+      "url": "https://vndb.org/v3112",
+      "image": "/visualnovellist/covers/vn/the-nonary-games.jpg",
+      "score": null,
+      "progressType": null,
+      "achievements": [ null, 38 ],
+      "playtime": null,
+      "start": null,
+      "finish": null,
+      "tags": [
+        "Owned"
+      ],
+      "notes": null
+    },
+    {
       "title": "First Snow",
       "url": "https://vndb.org/v28063",
       "image": "/visualnovellist/covers/vn/first-snow.jpg",
