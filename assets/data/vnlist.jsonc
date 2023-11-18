@@ -51,6 +51,26 @@
 
   "completed": [
     {
+      "title": "HoloCure",
+      "url": "https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/",
+      "image": "/visualnovellist/covers/vn/holocure.jpg",
+      "score": 8,
+      "progressType": null,
+      "achievements": [ 82, 82 ],
+      "playtime": 128,
+      "start": "2023-8-17",
+      "finish": "2023-10-6",
+      "tags": [
+        "Free",
+        "Not a visual novel"
+      ],
+      "notes": [
+        "A great Vampire Survivors clone that focuses on improved combat/gameplay/variety, but lacks in the area of exploration and mystery.",
+        "A lot of love was put into this game, from the unique character skills and abilities, to the music and references galore.",
+        "The grind is real with the final achievement, and it's no doubt a 'Kaela-approved' grind."
+      ]
+    },
+    {
       "title": "Aquarium",
       "url": "https://vndb.org/v36375",
       "image": "/visualnovellist/covers/vn/aquarium.jpg",
