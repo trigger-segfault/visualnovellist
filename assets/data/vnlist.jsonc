@@ -51,6 +51,26 @@
 
   "completed": [
     {
+      "title": "Aquarium",
+      "url": "https://vndb.org/v36375",
+      "image": "/visualnovellist/covers/vn/aquarium.jpg",
+      "score": 5.5,
+      "progressType": "routes",
+      "routes": [ 3, 3 ],
+      "achievements": [ 11, 11 ],
+      "playtime": 9.20,
+      "start": "2023-11-9",
+      "finish": "2023-11-10",
+      "tags": [
+        "Owned"
+      ],
+      "notes": [
+        "The side routes were comedy gold (although terribly short), but the main route was nothing more than average.",
+        "The main story would have been much more difficult to play if it starred a Holomem I actively watched,",
+        "since it feels weird to play a dating sim starring characters backed by real life people."
+      ]
+    },
+    {
       "title": "Chaos;Head Noah",
       "url": "https://vndb.org/v22505",
       "image": "/visualnovellist/covers/vn/chaos-head-noah.jpg",
@@ -1540,6 +1560,7 @@
       "start": null,
       "finish": null,
       "tags": [
+        "Free"
       ],
       "notes": null
     },
